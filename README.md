@@ -24,23 +24,7 @@
 
 ## :hammer_and_wrench: The most languages and skills
 
-  <div
-        style="width: 100%; height: 50px; background-color: #f0f0f0; border-radius: 8px; margin-bottom: 10px; overflow: hidden;">
-        <div style="height: 100%; background-color: #3498db; width: 60%; transition: width 0.5s ease;"></div>
-    </div>
-    <div style="padding: 10px; font-weight: bold;">60%</div>
-
-    <div
-        style="width: 100%; height: 50px; background-color: #f0f0f0; border-radius: 8px; margin-bottom: 10px; overflow: hidden;">
-        <div style="height: 100%; background-color: #3498db; width: 30%; transition: width 0.5s ease;"></div>
-    </div>
-    <div style="padding: 10px; font-weight: bold;">30%</div>
-
-    <div
-        style="width: 100%; height: 50px; background-color: #f0f0f0; border-radius: 8px; margin-bottom: 10px; overflow: hidden;">
-        <div style="height: 100%; background-color: #3498db; width: 10%; transition: width 0.5s ease;"></div>
-    </div>
-    <div style="padding: 10px; font-weight: bold;">10%</div>
+![The most languages and skills](sources/skills.PNG)
 
 ## :writing_hand: Where to find me
 
