@@ -1,6 +1,6 @@
-# Hey there 👋
+# Andres Orozco 👋
 
-## :fire: About me
+## :welcome: About me
 
 <p>This's Andres Orozco, I am System engineer from Medellin, Col <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13"/>, currently living in Miami, USA <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>. I am a person who loves code, since 2020 I stand out mainly in Frontend development with two years of experience in languages such as HTML5, CSS3 and JavaScript, a great fan of frameworks and libraries such as Angular, React and Bootstrap. In 2023 I began to discover a new lifestyle and fell in love with Python 3 and its FastAPI framework, which motivates me to always be learning, I love order and good practices, a faithful believer in teamwork.</p>
 
@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="60" height="60"/>&nbsp;
 </div>
 
-## :hammer_and_wrench: The most languages and skills
+## :fire: The most languages and skills
 
 ![The most languages and skills](sources/skills.PNG)
 
