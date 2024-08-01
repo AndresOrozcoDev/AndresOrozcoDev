@@ -31,19 +31,19 @@
   <img src="sources/rol.PNG" alt="Roles">
 </p>
 
-### Front End
+## Front End
 
 <p align="center">
   <img src="sources/frontend.PNG" alt="Frontend">
 </p>
 
-### Back End
+## Back End
 
 <p align="center">
   <img src="sources/backend.PNG" alt="Backend">
 </p>
 
-### DevOps
+## DevOps
 
 <p align="center">
   <img src="sources/devops.PNG" alt="DevOps">
