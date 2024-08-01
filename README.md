@@ -1,4 +1,4 @@
-<h2 align="center">Andres Orozco </h2>
+<h1 align="center">Andres Orozco </h1>
 
 ## 👋 About me
 
@@ -24,7 +24,9 @@
 
 ## 🔥 The most languages and skills
 
-![The most languages and skills](sources/skills.PNG)
+<p align="center">
+  <img src="sources/skills.PNG" alt="The most languages and skills">
+</p>
 
 ## ✍️ Where to find me
 
