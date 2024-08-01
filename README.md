@@ -28,7 +28,25 @@
 ## 🔥 The most languages and skills
 
 <p align="center">
-  <img src="sources/skills.PNG" alt="The most languages and skills">
+  <img src="sources/rol.PNG" alt="Roles">
+</p>
+
+### Front End
+
+<p align="center">
+  <img src="sources/frontend.PNG" alt="Frontend">
+</p>
+
+### Back End
+
+<p align="center">
+  <img src="sources/backend.PNG" alt="Backend">
+</p>
+
+### DevOps
+
+<p align="center">
+  <img src="sources/devops.PNG" alt="DevOps">
 </p>
 
 ## ✍️ Where to find me
