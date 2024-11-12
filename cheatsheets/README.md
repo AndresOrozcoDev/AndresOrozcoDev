@@ -26,7 +26,7 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 - <a href="https://github.com/ikatyang/emoji-cheat-sheet" target="_blank">:pencil: Iconos</a>
 - <a href="https://github.com/inttter/md-badges" target="_blank">:pencil: Badges</a>
 
-### Diseño <a name="dsign"></a>
+### Diseño <a name="design"></a>
 - <a href="https://thestocks.im/" target="_blank">:paintbrush: The Stockes</a>
 - <a href="https://v0.dev/" target="_blank">:paintbrush: v0 By Vercel</a>
 - <a href="https://collectui.com/designs" target="_blank">:paintbrush: Collect UI</a>
