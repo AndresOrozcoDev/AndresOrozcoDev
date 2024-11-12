@@ -74,6 +74,6 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 
 ## Util
 
-** Prefijos para hacer commits en Git**
+**Prefijos para hacer commits en Git**
 
 ![Prefijos Git](./utils/git_prefijos.jpeg)
