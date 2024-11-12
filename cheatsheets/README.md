@@ -2,17 +2,21 @@
 
 Este repositorio está dedicado a proporcionar una amplia variedad de recursos, herramientas y aprendizajes para desarrolladores de software.
 
-### Copilot
+## Indice
+
+- [Copilot](#copilot)
+- [README Generador](#copilot)
+- [Diseño](#copilot)
+- [Curriculo Generador](#copilot)
+- [Juegos](#copilot)
+- [Extensiones Chrome](#copilot)
+- [Extensiones VSCode](#copilot)
+- [Repositorios Github](#copilot)
+- [Canales Youtube](#copilot)
+- [Herramientas](#copilot)
+
+
+### Copilot <a name="copilot"></a>
 - :rocket: [Black box](https://www.blackbox.ai/)
 - :rocket: [You](https://you.com/)
 
-# Section Heading
-
-Some body text of this section.
-
-<a name="my-custom-anchor-point"></a>
-Some text I want to provide a direct link to, but which doesn't have its own heading.
-
-(… more content…)
-
-[A link to that custom anchor](#my-custom-anchor-point)
