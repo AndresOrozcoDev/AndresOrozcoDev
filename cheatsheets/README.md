@@ -71,3 +71,9 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 
 ### Herramientas <a name="tools"></a>
 - :hammer: [Ray.so](https://www.ray.so/){:target="_blank"}
+
+## Util
+
+** Prefijos para hacer commits en Git**
+
+![Prefijos Git](./utils/git_prefijos.jpeg)
