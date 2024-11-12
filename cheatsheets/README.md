@@ -1,4 +1,4 @@
-# Recusros
+# Recursos
 
 Este repositorio está dedicado a proporcionar una amplia variedad de recursos, herramientas y aprendizajes para desarrolladores de software.
 
@@ -17,57 +17,57 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 
 
 ### Copilot <a name="copilot"></a>
-- :rocket: [Black box](https://www.blackbox.ai/)
-- :rocket: [You](https://you.com/)
+- :rocket: [Black box](https://www.blackbox.ai/){:target="_blank"}
+- :rocket: [You](https://you.com/){:target="_blank"}
 
 ### README Generador <a name="readme"></a>
-- :pencil: [GPRM](https://gprm.itsvg.in/)
-- :pencil: [Readme so](https://readme.so/es)
-- :pencil: [Iconos](https://github.com/ikatyang/emoji-cheat-sheet)
-- :pencil: [Badges](https://github.com/inttter/md-badges)
+- :pencil: [GPRM](https://gprm.itsvg.in/){:target="_blank"}
+- :pencil: [Readme so](https://readme.so/es){:target="_blank"}
+- :pencil: [Iconos](https://github.com/ikatyang/emoji-cheat-sheet){:target="_blank"}
+- :pencil: [Badges](https://github.com/inttter/md-badges){:target="_blank"}
 
 ### Diseño <a name="dsign"></a>
-- :paintbrush: [The Stockes](https://thestocks.im/)
-- :paintbrush: [v0 By Vercel](https://v0.dev/)
-- :paintbrush: [Collect UI](https://collectui.com/designs)
-- :paintbrush: [Dribbble](https://dribbble.com/shots/4417684-Daily-UI-Landing-Page)
+- :paintbrush: [The Stockes](https://thestocks.im/){:target="_blank"}
+- :paintbrush: [v0 By Vercel](https://v0.dev/){:target="_blank"}
+- :paintbrush: [Collect UI](https://collectui.com/designs){:target="_blank"}
+- :paintbrush: [Dribbble](https://dribbble.com/shots/4417684-Daily-UI-Landing-Page){:target="_blank"}
 
 ### Curriculo <a name="curriculum"></a>
-- :clipboard: [ResumeGo](https://www.resumego.net/resume-checker/)
+- :clipboard: [ResumeGo](https://www.resumego.net/resume-checker/){:target="_blank"}
 
 ### Games <a name="games"></a>
-- :video_game: [Checkio](https://checkio.org/)
-- :video_game: [ZType](https://www.typing.com/es/student/game/ztype)
-- :apple: [Flexbox Froggy](https://flexboxfroggy.com/#es)
-- :apple: [CSS Dinner](https://flukeout.github.io/)
-- :apple: [Grid Garden](https://cssgridgarden.com/#es)
-- :apple: [CSS Speedrun](https://css-speedrun.netlify.app/)
-- :apple: [CSS Layout generator](https://layout.bradwoods.io/)
-- :apple: [Grid Layoutit](https://grid.layoutit.com/)
-- :apple: [Loading.io](https://loading.io/flexbox)
-- :apple: [Griddy.io](https://griddy.io/)
-- :apple: [CSS Grid Generator io](https://cssgridgenerator.io/)
-- :apple: [My CSS Builder](https://www.mycssbuilder.com/)
+- :video_game: [Checkio](https://checkio.org/){:target="_blank"}
+- :video_game: [ZType](https://www.typing.com/es/student/game/ztype){:target="_blank"}
+- :apple: [Flexbox Froggy](https://flexboxfroggy.com/#es){:target="_blank"}
+- :apple: [CSS Dinner](https://flukeout.github.io/){:target="_blank"}
+- :apple: [Grid Garden](https://cssgridgarden.com/#es){:target="_blank"}
+- :apple: [CSS Speedrun](https://css-speedrun.netlify.app/){:target="_blank"}
+- :apple: [CSS Layout generator](https://layout.bradwoods.io/){:target="_blank"}
+- :apple: [Grid Layoutit](https://grid.layoutit.com/){:target="_blank"}
+- :apple: [Loading.io](https://loading.io/flexbox){:target="_blank"}
+- :apple: [Griddy.io](https://griddy.io/){:target="_blank"}
+- :apple: [CSS Grid Generator io](https://cssgridgenerator.io/){:target="_blank"}
+- :apple: [My CSS Builder](https://www.mycssbuilder.com/){:target="_blank"}
 
 ### Extensiones Chrome <a name="chrome"></a>
-- :toolbox: [Wappalzer](https://www.wappalyzer.com/)
-- :toolbox: [SEO Meta in 1 Click](https://seo-extension.com/)
-- :toolbox: [Visbug](https://visbug.web.app/)
-- :toolbox: [Simulador Movil](https://www.webmobilefirst.com/es/)
+- :toolbox: [Wappalzer](https://www.wappalyzer.com/){:target="_blank"}
+- :toolbox: [SEO Meta in 1 Click](https://seo-extension.com/){:target="_blank"}
+- :toolbox: [Visbug](https://visbug.web.app/){:target="_blank"}
+- :toolbox: [Simulador Movil](https://www.webmobilefirst.com/es/){:target="_blank"}
 
 ### Extensiones VSCode <a name="vscode"></a>
-- :keyboard: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- :keyboard: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- :keyboard: [Live Share](https://code.visualstudio.com/learn/collaboration/live-share)
+- :keyboard: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer){:target="_blank"}
+- :keyboard: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode){:target="_blank"}
+- :keyboard: [Live Share](https://code.visualstudio.com/learn/collaboration/live-share){:target="_blank"}
 
 ### Github repositorios <a name="github"></a>
-- :computer: [miduDev](https://github.com/midudev)
-- :computer: [Frontend Joe](https://github.com/frontend-joe)
-- :computer: [Bezkoder](https://github.com/bezkoder)
-- :computer: [mtdvio (every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know)
+- :computer: [miduDev](https://github.com/midudev){:target="_blank"}
+- :computer: [Frontend Joe](https://github.com/frontend-joe){:target="_blank"}
+- :computer: [Bezkoder](https://github.com/bezkoder){:target="_blank"}
+- :computer: [mtdvio (every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know){:target="_blank"}
 
 ### Youtube canales <a name="youtube"></a>
-- :movie_camera: [OpenBootcamp](https://www.youtube.com/@OpenBootcamp/playlists)
+- :movie_camera: [OpenBootcamp](https://www.youtube.com/@OpenBootcamp/playlists){:target="_blank"}
 
 ### Herramientas <a name="tools"></a>
-- :hammer: [Ray.so](https://www.ray.so/)
+- :hammer: [Ray.so](https://www.ray.so/){:target="_blank"}
