@@ -17,61 +17,60 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 
 
 ### Copilot <a name="copilot"></a>
-- <a href="https://www.blackbox.ai/" target="_blank">:rocket: Black box</a>
-- <a href="https://you.com/" target="_blank">:rocket: You</a>
+- :rocket: [Black box](https://www.blackbox.ai/)
+- :rocket: [You](https://you.com/)
 
 ### README Generador <a name="readme"></a>
-- <a href="https://gprm.itsvg.in/" target="_blank">:pencil: GPRM</a>
-- <a href="https://readme.so/es" target="_blank">:pencil: Readme so</a>
-- <a href="https://github.com/ikatyang/emoji-cheat-sheet" target="_blank">:pencil: Iconos</a>
-- <a href="https://github.com/inttter/md-badges" target="_blank">:pencil: Badges</a>
+- :pencil: [GPRM](https://gprm.itsvg.in/)
+- :pencil: [Readme so](https://readme.so/es)
+- :pencil: [Iconos](https://github.com/ikatyang/emoji-cheat-sheet)
+- :pencil: [Badges](https://github.com/inttter/md-badges)
 
-### Diseño <a name="design"></a>
-- <a href="https://thestocks.im/" target="_blank">:paintbrush: The Stockes</a>
-- <a href="https://v0.dev/" target="_blank">:paintbrush: v0 By Vercel</a>
-- <a href="https://collectui.com/designs" target="_blank">:paintbrush: Collect UI</a>
-- <a href="https://dribbble.com/shots/4417684-Daily-UI-Landing-Page" target="_blank">:paintbrush: Dribbble</a>
+### Diseño <a name="dsign"></a>
+- :paintbrush: [The Stockes](https://thestocks.im/)
+- :paintbrush: [v0 By Vercel](https://v0.dev/)
+- :paintbrush: [Collect UI](https://collectui.com/designs)
+- :paintbrush: [Dribbble](https://dribbble.com/shots/4417684-Daily-UI-Landing-Page)
 
 ### Curriculo <a name="curriculum"></a>
-- <a href="https://www.resumego.net/resume-checker/" target="_blank">:clipboard: ResumeGo</a>
+- :clipboard: [ResumeGo](https://www.resumego.net/resume-checker/)
 
 ### Games <a name="games"></a>
-- <a href="https://checkio.org/" target="_blank">:video_game: Checkio</a>
-- <a href="https://www.typing.com/es/student/game/ztype" target="_blank">:video_game: ZType</a>
-- <a href="https://flexboxfroggy.com/#es" target="_blank">:apple: Flexbox Froggy</a>
-- <a href="https://flukeout.github.io/" target="_blank">:apple: CSS Dinner</a>
-- <a href="https://cssgridgarden.com/#es" target="_blank">:apple: Grid Garden</a>
-- <a href="https://css-speedrun.netlify.app/" target="_blank">:apple: CSS Speedrun</a>
-- <a href="https://layout.bradwoods.io/" target="_blank">:apple: CSS Layout generator</a>
-- <a href="https://grid.layoutit.com/" target="_blank">:apple: Grid Layoutit</a>
-- <a href="https://loading.io/flexbox" target="_blank">:apple: Loading.io</a>
-- <a href="https://griddy.io/" target="_blank">:apple: Griddy.io</a>
-- <a href="https://cssgridgenerator.io/" target="_blank">:apple: CSS Grid Generator io</a>
-- <a href="https://www.mycssbuilder.com/" target="_blank">:apple: My CSS Builder</a>
+- :video_game: [Checkio](https://checkio.org/)
+- :video_game: [ZType](https://www.typing.com/es/student/game/ztype)
+- :apple: [Flexbox Froggy](https://flexboxfroggy.com/#es)
+- :apple: [CSS Dinner](https://flukeout.github.io/)
+- :apple: [Grid Garden](https://cssgridgarden.com/#es)
+- :apple: [CSS Speedrun](https://css-speedrun.netlify.app/)
+- :apple: [CSS Layout generator](https://layout.bradwoods.io/)
+- :apple: [Grid Layoutit](https://grid.layoutit.com/)
+- :apple: [Loading.io](https://loading.io/flexbox)
+- :apple: [Griddy.io](https://griddy.io/)
+- :apple: [CSS Grid Generator io](https://cssgridgenerator.io/)
+- :apple: [My CSS Builder](https://www.mycssbuilder.com/)
 
 ### Extensiones Chrome <a name="chrome"></a>
-- <a href="https://www.wappalyzer.com/" target="_blank">:toolbox: Wappalzer</a>
-- <a href="https://seo-extension.com/" target="_blank">:toolbox: SEO Meta in 1 Click</a>
-- <a href="https://visbug.web.app/" target="_blank">:toolbox: Visbug</a>
-- <a href="https://www.webmobilefirst.com/es/" target="_blank">:toolbox: Simulador Movil</a>
+- :toolbox: [Wappalzer](https://www.wappalyzer.com/)
+- :toolbox: [SEO Meta in 1 Click](https://seo-extension.com/)
+- :toolbox: [Visbug](https://visbug.web.app/)
+- :toolbox: [Simulador Movil](https://www.webmobilefirst.com/es/)
 
 ### Extensiones VSCode <a name="vscode"></a>
-- <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="_blank">:keyboard: Live Server</a>
-- <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode" target="_blank">:keyboard: Prettier</a>
-- <a href="https://code.visualstudio.com/learn/collaboration/live-share" target="_blank">:keyboard: Live Share</a>
+- :keyboard: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- :keyboard: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- :keyboard: [Live Share](https://code.visualstudio.com/learn/collaboration/live-share)
 
 ### Github repositorios <a name="github"></a>
-- <a href="https://github.com/midudev" target="_blank">:computer: miduDev</a>
-- <a href="https://github.com/frontend-joe" target="_blank">:computer: Frontend Joe</a>
-- <a href="https://github.com/bezkoder" target="_blank">:computer: Bezkoder</a>
-- <a href="https://github.com/mtdvio/every-programmer-should-know" target="_blank">:computer: mtdvio (every-programmer-should-know)</a>
+- :computer: [miduDev](https://github.com/midudev)
+- :computer: [Frontend Joe](https://github.com/frontend-joe)
+- :computer: [Bezkoder](https://github.com/bezkoder)
+- :computer: [mtdvio (every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know)
 
 ### Youtube canales <a name="youtube"></a>
-- <a href="https://www.youtube.com/@OpenBootcamp/playlists" target="_blank">:movie_camera: OpenBootcamp</a>
+- :movie_camera: [OpenBootcamp](https://www.youtube.com/@OpenBootcamp/playlists)
 
 ### Herramientas <a name="tools"></a>
-- <a href="https://www.ray.so/" target="_blank">:hammer: Ray.so</a>
-
+- :hammer: [Ray.so](https://www.ray.so/)
 
 ## Util
 > Prefijos para hacer commits en Git
