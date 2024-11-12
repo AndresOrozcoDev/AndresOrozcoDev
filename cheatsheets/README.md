@@ -64,7 +64,7 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 - :computer: [miduDev](https://github.com/midudev){:target="_blank" rel="noopener"}
 - :computer: [Frontend Joe](https://github.com/frontend-joe){:target="_blank" rel="noopener"}
 - :computer: [Bezkoder](https://github.com/bezkoder){:target="_blank" rel="noopener"}
-- :computer: [mtdvio (every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know){:target="_blank" rel="noopener"}
+[mtdvio (every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know){:target="_blank" rel="noopener"}
 
 ### Youtube canales <a name="youtube"></a>
 - :movie_camera: [OpenBootcamp](https://www.youtube.com/@OpenBootcamp/playlists){:target="_blank" rel="noopener"}
