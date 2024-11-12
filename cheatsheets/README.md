@@ -49,13 +49,13 @@ Este repositorio está dedicado a proporcionar una amplia variedad de recursos, 
 - :apple: [CSS Grid Generator io](https://cssgridgenerator.io/)
 - :apple: [My CSS Builder](https://www.mycssbuilder.com/)
 
-### Extensiones Chrome <a name="vscode"></a>
+### Extensiones Chrome <a name="chrome"></a>
 - :toolbox: [Wappalzer](https://www.wappalyzer.com/)
 - :toolbox: [SEO Meta in 1 Click](https://seo-extension.com/)
 - :toolbox: [Visbug](https://visbug.web.app/)
 - :toolbox: [Simulador Movil](https://www.webmobilefirst.com/es/)
 
-### Extensiones VSCode <a name="games"></a>
+### Extensiones VSCode <a name="vscode"></a>
 - :keyboard: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - :keyboard: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - :keyboard: [Live Share](https://code.visualstudio.com/learn/collaboration/live-share)
