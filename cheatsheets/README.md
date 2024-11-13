@@ -7,13 +7,13 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 - :rocket: [Copilot](#copilot)
 - :page_facing_up: [README Generador](#readme)
 - :art: [Diseño](#design)
-- [Curriculo Generador](#curriculum)
-- [Juegos](#games)
-- [Extensiones Chrome](#chrome)
-- [Extensiones VSCode](#vscode)
-- [Repositorios Github](#github)
-- [Canales Youtube](#youtube)
-- [Herramientas](#tools)
+- :clipboard: [Curriculo Generador](#curriculum)
+- :video_game:[Juegos](#games)
+- :toolbox: [Extensiones Chrome](#chrome)
+- :keyboard: [Extensiones VSCode](#vscode)
+- :computer: [Repositorios Github](#github)
+- :movie_camera: [Canales Youtube](#youtube)
+- :hammer: [Herramientas](#tools)
 
 
 ### Copilot <a name="copilot"></a>
