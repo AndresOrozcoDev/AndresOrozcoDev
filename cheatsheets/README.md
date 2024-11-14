@@ -5,6 +5,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 ## Indice
 
 - :rocket: [Copilot](#copilot)
+- flying_saucer: [API's](#apis)
 - :page_facing_up: [README Generador](#readme)
 - :art: [Diseño](#design)
 - :clipboard: [Curriculo Generador](#curriculum)
@@ -22,6 +23,13 @@ Herramientas que mejoran la productividad de desarrollo con IA.
 
 - :rocket: [Black box](https://www.blackbox.ai/)
 - :rocket: [You](https://you.com/)
+
+### API's <a name="apis"></a>
+
+Herramientas que mejoran la productividad de desarrollo con IA.
+
+- flying_saucer: [Rapid API](https://rapidapi.com/hub)
+- flying_saucer: [Public API](https://publicapis.dev/)
 
 ### README Generador <a name="readme"></a>
 
