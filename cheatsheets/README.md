@@ -117,3 +117,9 @@ Algunos recursos útiles adicionales.
 > Diagrama básico para arquitecturas de microservicios.
 
 ![Arquitecturas de servicios](./utils/services_architecture.gif)
+
+### JOIN en SQL
+
+> Como funcionan los JOIN en SQL.
+
+![join EN sql](./utils/SQL_%20join.jpg)
