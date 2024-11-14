@@ -39,7 +39,7 @@ Recursos visuales y herramientas para diseñadores.
 - :art: [The Stockes](https://thestocks.im/)
 - :art: [v0 By Vercel](https://v0.dev/)
 - :art: [Collect UI](https://collectui.com/designs)
-- :art: [Dribbble](https://dribbble.com/shots/4417684-Daily-UI-Landing-Page)
+- :art: [Toools.design](https://www.toools.design/)
 
 ### Curriculo <a name="curriculum"></a>
 
@@ -56,13 +56,7 @@ Aprende y mejora tus habilidades de desarrollo jugando.
 - :apple: [Flexbox Froggy](https://flexboxfroggy.com/#es)
 - :apple: [CSS Dinner](https://flukeout.github.io/)
 - :apple: [Grid Garden](https://cssgridgarden.com/#es)
-- :apple: [CSS Speedrun](https://css-speedrun.netlify.app/)
-- :apple: [CSS Layout generator](https://layout.bradwoods.io/)
-- :apple: [Grid Layoutit](https://grid.layoutit.com/)
-- :apple: [Loading.io](https://loading.io/flexbox)
-- :apple: [Griddy.io](https://griddy.io/)
 - :apple: [CSS Grid Generator io](https://cssgridgenerator.io/)
-- :apple: [My CSS Builder](https://www.mycssbuilder.com/)
 
 ### Extensiones Chrome <a name="chrome"></a>
 
@@ -80,6 +74,9 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - :keyboard: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - :keyboard: [Live Share](https://code.visualstudio.com/learn/collaboration/live-share)
+- :keyboard: [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- :: [Bracket Pair Colorization](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
+- :: [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 ### Github repositorios <a name="github"></a>
 
@@ -123,3 +120,9 @@ Algunos recursos útiles adicionales.
 > Como funcionan los JOIN en SQL.
 
 ![join EN sql](./utils/SQL_%20join.jpg)
+
+### Estilos de Arquitecturas para API's
+
+> Estilos de arquitecturas para API's.
+
+![Arquitecturas API's](./utils/API_architecture_styles.gif)
