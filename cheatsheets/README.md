@@ -28,8 +28,8 @@ Herramientas que mejoran la productividad de desarrollo con IA.
 
 Herramientas que mejoran la productividad de desarrollo con IA.
 
-- flying_saucer: [Rapid API](https://rapidapi.com/hub)
-- flying_saucer: [Public API](https://publicapis.dev/)
+- :flying_saucer: [Rapid API](https://rapidapi.com/hub)
+- :flying_saucer: [Public API](https://publicapis.dev/)
 
 ### README Generador <a name="readme"></a>
 
