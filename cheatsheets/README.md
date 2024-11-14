@@ -85,6 +85,7 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - :keyboard: [Bracket Pair Colorization](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
 - :keyboard: [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+- :keyboard: [Intellisense for CSS Class Names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 
 ### Github repositorios <a name="github"></a>
 
