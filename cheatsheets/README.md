@@ -117,20 +117,20 @@ Algunos recursos útiles adicionales.
 
 ![Prefijos Git](./utils/git_prefijos.jpeg)
 
-### Arquitecturas de Microservicios
+### Arquitecturas de una aplicacion.
 
-> Diagrama básico para arquitecturas de microservicios.
+> Cómo se organiza la aplicación a nivel de diseño y estructura.
 
-![Arquitecturas de servicios](./utils/services_architecture.gif)
+![Arquitecturas de una aplicacion](./utils/aplication_architecture.gif)
+
+### Arquitecturas de comunicación entre servicios.
+
+> Protocolos o métodos que se usan para que los componentes de la aplicación (o aplicaciones externas) se comuniquen entre sí.
+
+![Arquitecturas de comunicación entre servicios](./utils/comunication_architecture.gif)
 
 ### JOIN en SQL
 
 > Como funcionan los JOIN en SQL.
 
 ![join EN sql](./utils/SQL_%20join.jpg)
-
-### Estilos de Arquitecturas para API's
-
-> Estilos de arquitecturas para API's.
-
-![Arquitecturas API's](./utils/API_architecture_styles.gif)
