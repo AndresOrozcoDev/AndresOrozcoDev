@@ -75,8 +75,8 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - :keyboard: [Live Share](https://code.visualstudio.com/learn/collaboration/live-share)
 - :keyboard: [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-- :: [Bracket Pair Colorization](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
-- :: [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+- :keyboard: [Bracket Pair Colorization](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
+- :keyboard: [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 ### Github repositorios <a name="github"></a>
 
