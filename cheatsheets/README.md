@@ -107,6 +107,7 @@ Canales de YouTube con contenido educativo y tutoriales.
 Herramientas adicionales para mejorar tu flujo de trabajo.
 
 - :hammer: [Ray.so](https://www.ray.so/)
+- :hammer: [Squoosh](https://squoosh.app/)
 
 ## Util
 
