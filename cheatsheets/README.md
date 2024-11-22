@@ -39,6 +39,7 @@ Generadores para crear tu README de manera rápida y profesional.
 - :page_facing_up: [Readme so](https://readme.so/es)
 - :page_facing_up: [Iconos](https://github.com/ikatyang/emoji-cheat-sheet)
 - :page_facing_up: [Badges](https://github.com/inttter/md-badges)
+- :page_facing_up: [Docs](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Diseño <a name="dsign"></a>
 
