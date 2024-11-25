@@ -1,5 +1,9 @@
 # 💫 About Me:
-This's Andres Orozco, I am System engineer from Medellin, Col <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13"/>, currently living in Miami, USA <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>. I am a person who loves code, since 2020 I stand out mainly in Frontend development with two years of experience in languages such as HTML5, CSS3 and JavaScript, a great fan of frameworks and libraries such as Angular, React and Bootstrap. In 2023 I began to discover a new lifestyle and fell in love with Python 3 and its FastAPI framework, which motivates me to always be learning, I love order and good practices, a faithful believer in teamwork.
+Systems Engineer graduated in Medellín, Col <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13"/>. but currently residing in Miami, USA <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>. I am a person who loves code, good practices and a true believer in teamwork.
+
+Since 2020 I started with frontend development with more than three years of experience in languages ​​such as HTML5, CSS3 and JAVASCRIPT using frameworks and libraries such as ANGULAR and REACT, as well as BOOTSTAP and TAILWIND.
+
+In 2023 I began to discover PYTHON 3 and its FASTAPI web framework. I am also getting to know NODE JS with the EXPRESS JS framework, which motivates me to be constantly learning.
 
 
 ## 🌐 Socials:
