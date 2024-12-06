@@ -41,7 +41,7 @@ Generadores para crear tu README de manera rápida y profesional.
 - :page_facing_up: [Badges](https://github.com/inttter/md-badges)
 - :page_facing_up: [Docs](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-### Diseño <a name="dsign"></a>
+### Diseño <a name="design"></a>
 
 Recursos visuales y herramientas para diseñadores.
 
