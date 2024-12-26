@@ -15,6 +15,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 - :computer: [Repositorios Github](#github)
 - :movie_camera: [Canales Youtube](#youtube)
 - :hammer: [Herramientas](#tools)
+- :closed_book: [Libros](#books)
 
 
 ### Copilot <a name="copilot"></a>
@@ -30,6 +31,7 @@ Herramientas que mejoran la productividad de desarrollo con IA.
 
 - :flying_saucer: [Rapid API](https://rapidapi.com/hub)
 - :flying_saucer: [Public API](https://publicapis.dev/)
+- :flying_saucer: [Dummy JSON](https://dummyjson.com/)
 
 ### README Generador <a name="readme"></a>
 
@@ -109,6 +111,10 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 
 - :hammer: [Ray.so](https://www.ray.so/)
 - :hammer: [Squoosh](https://squoosh.app/)
+
+### Libros <a name="books"></a>
+
+- :closed_book: [Libros de programación gratis](https://github.com/midudev/libros-programacion-gratis)
 
 ## Util
 
