@@ -145,3 +145,9 @@ Algunos recursos útiles adicionales.
 > Como funcionan los JOIN en SQL.
 
 ![join EN sql](./utils/SQL_%20join.jpg)
+
+### Codigos de respuestas
+
+> Codigos de respuestas en servicios HTTP.
+
+![Codigos de respuesta](./utils/response_status_code_HTTP_services.gif)
