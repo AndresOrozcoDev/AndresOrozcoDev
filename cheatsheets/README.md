@@ -22,6 +22,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 
 Herramientas que mejoran la productividad de desarrollo con IA.
 
+- :rocket: [Chat GPT](https://chatgpt.com/)
 - :rocket: [Black box](https://www.blackbox.ai/)
 - :rocket: [You](https://you.com/)
 
@@ -37,26 +38,26 @@ Herramientas que mejoran la productividad de desarrollo con IA.
 
 Generadores para crear tu README de manera rápida y profesional.
 
-- :page_facing_up: [GPRM](https://gprm.itsvg.in/)
-- :page_facing_up: [Readme so](https://readme.so/es)
-- :page_facing_up: [Iconos](https://github.com/ikatyang/emoji-cheat-sheet)
-- :page_facing_up: [Badges](https://github.com/inttter/md-badges)
-- :page_facing_up: [Docs](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- :page_facing_up: [GPRM](https://gprm.itsvg.in/) - Best Profile Generator Github
+- :page_facing_up: [Readme so](https://readme.so/es) - La forma más fácil de crear un README
+- :page_facing_up: [Iconos](https://github.com/ikatyang/emoji-cheat-sheet) - Hoja de trucos para iconos
+- :page_facing_up: [Badges](https://github.com/inttter/md-badges) - Hoja de trucos para insignias
+- :page_facing_up: [Docs](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Documentacion oficial de README
 
 ### Diseño <a name="design"></a>
 
 Recursos visuales y herramientas para diseñadores.
 
-- :art: [The Stockes](https://thestocks.im/)
-- :art: [v0 By Vercel](https://v0.dev/)
-- :art: [Collect UI](https://collectui.com/designs)
-- :art: [Toools.design](https://www.toools.design/)
+- :art: [v0 By Vercel](https://v0.dev/) - Generador de diseños
+- :art: [Toools.design](https://www.toools.design/) - Ayudas para recursos
+- :art: [Tailwind CSS Color Generator](https://uicolors.app/create) - Generador de colores
+- :art: [Coolors](https://coolors.co/) - El generador de paletas de colores superrápido
 
 ### Curriculo <a name="curriculum"></a>
 
 Herramientas para generar tu currículum profesional.
 
-- :clipboard: [ResumeGo](https://www.resumego.net/resume-checker/)
+- :clipboard: [ResumeGo](https://www.resumego.net/resume-checker/) - Verificador de resumen
 
 ### Games <a name="games"></a>
 
