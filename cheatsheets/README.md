@@ -38,7 +38,7 @@ Herramientas que mejoran la productividad de desarrollo con IA.
 
 Generadores para crear tu README de manera rápida y profesional.
 
-- :page_facing_up: [GPRM](https://gprm.itsvg.in/) - Best Profile Generator Github
+- :page_facing_up: [GPRM](https://gprm.itsvg.in/) - Mejor generador de perfil en Github
 - :page_facing_up: [Readme so](https://readme.so/es) - La forma más fácil de crear un README
 - :page_facing_up: [Iconos](https://github.com/ikatyang/emoji-cheat-sheet) - Hoja de trucos para iconos
 - :page_facing_up: [Badges](https://github.com/inttter/md-badges) - Hoja de trucos para insignias
@@ -63,12 +63,12 @@ Herramientas para generar tu currículum profesional.
 
 Aprende y mejora tus habilidades de desarrollo jugando.
 
-- :video_game: [Checkio](https://checkio.org/)
-- :video_game: [ZType](https://www.typing.com/es/student/game/ztype)
-- :apple: [Flexbox Froggy](https://flexboxfroggy.com/#es)
-- :apple: [CSS Dinner](https://flukeout.github.io/)
-- :apple: [Grid Garden](https://cssgridgarden.com/#es)
-- :apple: [CSS Grid Generator io](https://cssgridgenerator.io/)
+- :video_game: [Checkio](https://checkio.org/) - Juego para aprender Python y Typescript
+- :video_game: [ZType](https://www.typing.com/es/student/game/ztype) - Juego de teclao
+- :apple: [Flexbox Froggy](https://flexboxfroggy.com/#es) - Juego para aprender CSS Flexbox
+- :apple: [CSS Dinner](https://flukeout.github.io/) - Juego para aprender los selectores con CSS
+- :apple: [Grid Garden](https://cssgridgarden.com/#es) - Juego para aprender CSS Grid
+- :apple: [CSS Grid Generator io](https://cssgridgenerator.io/) - Generador de CSS Grid
 
 ### Extensiones Chrome <a name="chrome"></a>
 
@@ -110,9 +110,9 @@ Canales de YouTube con contenido educativo y tutoriales.
 
 Herramientas adicionales para mejorar tu flujo de trabajo.
 
-- :hammer: [Ray.so](https://www.ray.so/)
-- :hammer: [Squoosh](https://squoosh.app/)
-- :hammer: [Commandos](https://commandsapp.vercel.app/)
+- :hammer: [Ray.so](https://www.ray.so/) - Crea imagenes bonitas de tu codigo
+- :hammer: [Squoosh](https://squoosh.app/) - Comprimidor de imagenes
+- :hammer: [Commandos](https://commandsapp.vercel.app/) - Documentacion de comandos
 
 ### Libros <a name="books"></a>
 
