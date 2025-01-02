@@ -125,6 +125,12 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 
 Algunos recursos útiles adicionales.
 
+### Comandos Git
+
+> Aquí te dejamos algunos comandos mas utilizados.
+
+![Comandos Git](./utils/git_commads.jpg)
+
 ### Prefijos para hacer commits en Git
 
 > Aquí te dejamos un ejemplo con los prefijos de Git.
