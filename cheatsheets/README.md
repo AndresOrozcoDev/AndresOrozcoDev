@@ -5,6 +5,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 ## Indice
 
 - :rocket: [Copilot](#copilot)
+- :detective: [Aplicaciones](#apps)
 - :flying_saucer: [API's](#apis)
 - :page_facing_up: [README Generador](#readme)
 - :art: [Diseño](#design)
@@ -25,6 +26,14 @@ Herramientas que mejoran la productividad de desarrollo con IA.
 - :rocket: [Chat GPT](https://chatgpt.com/)
 - :rocket: [Black box](https://www.blackbox.ai/)
 - :rocket: [You](https://you.com/)
+
+### Aplicaciones <a name="apps"></a>
+
+Aplicaciones que mejoran tu desarrollo.
+
+- :detective: [VSCode](https://code.visualstudio.com/)
+- :detective: [Postman](https://www.postman.com/)
+- :detective: [UrbanVPN](https://www.urban-vpn.com/)
 
 ### API's <a name="apis"></a>
 
@@ -58,6 +67,7 @@ Recursos visuales y herramientas para diseñadores.
 Herramientas para generar tu currículum profesional.
 
 - :clipboard: [ResumeGo](https://www.resumego.net/resume-checker/) - Verificador de resumen
+- :clipboard: [AI Apply](https://aiapply.co/) - Creacion de resumen
 
 ### Games <a name="games"></a>
 
