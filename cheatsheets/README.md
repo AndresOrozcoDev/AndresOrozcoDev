@@ -75,6 +75,7 @@ Aprende y mejora tus habilidades de desarrollo jugando.
 
 - :video_game: [Checkio](https://checkio.org/) - Juego para aprender Python y Typescript
 - :video_game: [ZType](https://www.typing.com/es/student/game/ztype) - Juego de teclao
+- :video_game: [ZType](https://learngitbranching.js.org/?locale=es_ES) - Juego para aprender Git
 - :apple: [Flexbox Froggy](https://flexboxfroggy.com/#es) - Juego para aprender CSS Flexbox
 - :apple: [CSS Dinner](https://flukeout.github.io/) - Juego para aprender los selectores con CSS
 - :apple: [Grid Garden](https://cssgridgarden.com/#es) - Juego para aprender CSS Grid
