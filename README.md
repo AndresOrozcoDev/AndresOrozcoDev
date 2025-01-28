@@ -41,4 +41,7 @@ Systems Engineer graduated in Medellín, Col <img src="https://cdn-icons-png.fla
 ---
 [![](https://visitcount.itsvg.in/api?id=AndresOrozcoDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# Resume:
+[Resume](./assets/Andres%20Orozco.pdf)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
