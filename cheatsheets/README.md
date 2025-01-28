@@ -6,6 +6,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 
 - :rocket: [Copilot](#copilot)
 - :detective: [Aplicaciones](#apps)
+- :loudspeaker: [Ingles](#english)
 - :flying_saucer: [API's](#apis)
 - :page_facing_up: [README Generador](#readme)
 - :art: [Diseño](#design)
@@ -34,6 +35,13 @@ Aplicaciones que mejoran tu desarrollo.
 - :detective: [VSCode](https://code.visualstudio.com/)
 - :detective: [Postman](https://www.postman.com/)
 - :detective: [UrbanVPN](https://www.urban-vpn.com/)
+
+### Aplicaciones <a name="english"></a>
+
+Apliaciones o certificados sobr el idioma Ingles.
+
+- :loudspeaker: [Certificación A2](https://www.freecodecamp.org/espanol/learn/a2-english-for-developers/)
+- :loudspeaker: [Certificación B1](https://www.freecodecamp.org/espanol/learn/b1-english-for-developers/)
 
 ### API's <a name="apis"></a>
 
