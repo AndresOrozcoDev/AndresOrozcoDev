@@ -11,7 +11,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 - :page_facing_up: [README Generador](#readme)
 - :art: [Diseño](#design)
 - :clipboard: [Curriculo Generador](#curriculum)
-- :video_game:[Juegos](#games)
+- :video_game: [Juegos](#games)
 - :toolbox: [Extensiones Chrome](#chrome)
 - :keyboard: [Extensiones VSCode](#vscode)
 - :computer: [Repositorios Github](#github)
