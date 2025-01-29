@@ -36,7 +36,7 @@ Aplicaciones que mejoran tu desarrollo.
 - :detective: [Postman](https://www.postman.com/)
 - :detective: [UrbanVPN](https://www.urban-vpn.com/)
 
-### Aplicaciones <a name="english"></a>
+### Ingles <a name="english"></a>
 
 Apliaciones o certificados sobr el idioma Ingles.
 
