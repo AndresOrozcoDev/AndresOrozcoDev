@@ -38,7 +38,7 @@ Aplicaciones que mejoran tu desarrollo.
 
 ### Ingles <a name="english"></a>
 
-Apliaciones o certificados sobr el idioma Ingles.
+Apliaciones o certificados sobre el idioma Ingles.
 
 - :loudspeaker: [Certificación A2](https://www.freecodecamp.org/espanol/learn/a2-english-for-developers/)
 - :loudspeaker: [Certificación B1](https://www.freecodecamp.org/espanol/learn/b1-english-for-developers/)
