@@ -11,7 +11,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 - :page_facing_up: [README Generador](#readme)
 - :art: [Diseño](#design)
 - :clipboard: [Curriculo Generador](#curriculum)
-- :video_game:[Juegos](#games)
+- :video_game: [Juegos](#games)
 - :toolbox: [Extensiones Chrome](#chrome)
 - :keyboard: [Extensiones VSCode](#vscode)
 - :computer: [Repositorios Github](#github)
@@ -36,9 +36,9 @@ Aplicaciones que mejoran tu desarrollo.
 - :detective: [Postman](https://www.postman.com/)
 - :detective: [UrbanVPN](https://www.urban-vpn.com/)
 
-### Aplicaciones <a name="english"></a>
+### Ingles <a name="english"></a>
 
-Apliaciones o certificados sobr el idioma Ingles.
+Apliaciones o certificados sobre el idioma Ingles.
 
 - :loudspeaker: [Certificación A2](https://www.freecodecamp.org/espanol/learn/a2-english-for-developers/)
 - :loudspeaker: [Certificación B1](https://www.freecodecamp.org/espanol/learn/b1-english-for-developers/)
