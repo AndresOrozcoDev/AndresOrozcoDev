@@ -137,12 +137,14 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 - :hammer: [Ray.so](https://www.ray.so/) - Crea imagenes bonitas de tu codigo
 - :hammer: [JSON Generator](https://www.jsongenerator.io/) - Genara JSON a la medida
 - :hammer: [Squoosh](https://squoosh.app/) - Comprimidor de imagenes
-- :hammer: [Commandos](https://commandsapp.vercel.app/) - Documentacion de comandos
 - :hammer: [CSS Code Quality](https://www.projectwallace.com/css-code-quality) - Calidad del codigo CSS
 - :hammer: [PageSpeed Insights](https://pagespeed.web.dev/) - Informacion de la velocidad de la pagina
 - :hammer: [Pingdom](https://tools.pingdom.com/) - Informacion de la velocidad de la pagina
 - :hammer: [ChartDB](https://app.chartdb.io/) - Creacion de diagrmas de bases de datos.
 - :hammer: [Real Favicon Generator .Net](https://realfavicongenerator.net/) - Creacion de iconos y favicon.
+- :hammer: [Errores](https://erroresapp.vercel.app/) - Documentacion de errores.
+- :hammer: [Commandos](https://commandsapp.vercel.app/) - Documentacion de comandos.
+- :hammer: [Keyboard Gif](https://keyboardapp-brown.vercel.app/) - Creacion Gif con el teclado.
 
 ### Libros <a name="books"></a>
 
