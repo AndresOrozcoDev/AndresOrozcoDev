@@ -113,6 +113,7 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [Bracket Pair Colorization](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
 - :keyboard: [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - :keyboard: [Intellisense for CSS Class Names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+- :keyboard: [RapidAPI Client](https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client)
 
 ### Github repositorios <a name="github"></a>
 
