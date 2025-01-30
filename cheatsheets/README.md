@@ -69,6 +69,9 @@ Recursos visuales y herramientas para diseñadores.
 - :art: [Toools.design](https://www.toools.design/) - Ayudas para recursos
 - :art: [Tailwind CSS Color Generator](https://uicolors.app/create) - Generador de colores
 - :art: [Coolors](https://coolors.co/) - El generador de paletas de colores superrápido
+- :art: [font Awesome](https://fontawesome.com/) - Libreria de iconos
+- :art: [Lucide Icons](https://lucide.dev/icons/) - Libreria de iconos
+- :art: [Google Fonts](https://fonts.google.com/) - Fuentes de Google
 
 ### Curriculo <a name="curriculum"></a>
 
@@ -94,9 +97,10 @@ Aprende y mejora tus habilidades de desarrollo jugando.
 Extensiones útiles para el navegador Chrome.
 
 - :toolbox: [Wappalzer](https://www.wappalyzer.com/)
-- :toolbox: [SEO Meta in 1 Click](https://seo-extension.com/)
-- :toolbox: [Visbug](https://visbug.web.app/)
-- :toolbox: [Simulador Movil](https://www.webmobilefirst.com/es/)
+- :toolbox: [SEO Meta in 1 Click](https://chromewebstore.google.com/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc)
+- :toolbox: [Visbug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
+- :toolbox: [Simulador Movil](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
+- :toolbox: [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?pli=1)
 
 ### Extensiones VSCode <a name="vscode"></a>
 
@@ -130,11 +134,14 @@ Canales de YouTube con contenido educativo y tutoriales.
 Herramientas adicionales para mejorar tu flujo de trabajo.
 
 - :hammer: [Ray.so](https://www.ray.so/) - Crea imagenes bonitas de tu codigo
+- :hammer: [JSON Generator](https://www.jsongenerator.io/) - Genara JSON a la medida
 - :hammer: [Squoosh](https://squoosh.app/) - Comprimidor de imagenes
 - :hammer: [Commandos](https://commandsapp.vercel.app/) - Documentacion de comandos
 - :hammer: [CSS Code Quality](https://www.projectwallace.com/css-code-quality) - Calidad del codigo CSS
 - :hammer: [PageSpeed Insights](https://pagespeed.web.dev/) - Informacion de la velocidad de la pagina
+- :hammer: [Pingdom](https://tools.pingdom.com/) - Informacion de la velocidad de la pagina
 - :hammer: [ChartDB](https://app.chartdb.io/) - Creacion de diagrmas de bases de datos.
+- :hammer: [Real Favicon Generator .Net](https://realfavicongenerator.net/) - Creacion de iconos y favicon.
 
 ### Libros <a name="books"></a>
 
