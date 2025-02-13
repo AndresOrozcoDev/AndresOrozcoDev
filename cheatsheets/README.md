@@ -11,6 +11,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 - :page_facing_up: [README Generador](#readme)
 - :art: [Diseño](#design)
 - :clipboard: [Curriculo Generador](#curriculum)
+- :man_student: [Aprendizaje](#learning)
 - :video_game: [Juegos](#games)
 - :toolbox: [Extensiones Chrome](#chrome)
 - :keyboard: [Extensiones VSCode](#vscode)
@@ -25,6 +26,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 Herramientas que mejoran la productividad de desarrollo con IA.
 
 - :rocket: [Chat GPT](https://chatgpt.com/)
+- :rocket: [Claude](https://claude.ai/new)
 - :rocket: [Black box](https://www.blackbox.ai/)
 - :rocket: [You](https://you.com/)
 
@@ -42,6 +44,7 @@ Apliaciones o certificados sobre el idioma Ingles.
 
 - :loudspeaker: [Certificación A2](https://www.freecodecamp.org/espanol/learn/a2-english-for-developers/)
 - :loudspeaker: [Certificación B1](https://www.freecodecamp.org/espanol/learn/b1-english-for-developers/)
+- :loudspeaker: [Vocabulario](https://www.languageguide.org/)
 
 ### API's <a name="apis"></a>
 
@@ -80,6 +83,11 @@ Herramientas para generar tu currículum profesional.
 - :clipboard: [ResumeGo](https://www.resumego.net/resume-checker/) - Verificador de resumen
 - :clipboard: [AI Apply](https://aiapply.co/) - Creacion de resumen
 
+### Aprendizaje <a name="learning"></a>
+
+- :man_student: [Certiprof](https://free.certiprof.com/)
+- :man_student: [Codedex](https://www.codedex.io/)
+
 ### Games <a name="games"></a>
 
 Aprende y mejora tus habilidades de desarrollo jugando.
@@ -101,6 +109,7 @@ Extensiones útiles para el navegador Chrome.
 - :toolbox: [Visbug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
 - :toolbox: [Simulador Movil](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
 - :toolbox: [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?pli=1)
+- :toolbox: [html.to.design](https://chromewebstore.google.com/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed?hl=en)
 
 ### Extensiones VSCode <a name="vscode"></a>
 
@@ -114,6 +123,7 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - :keyboard: [Intellisense for CSS Class Names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 - :keyboard: [RapidAPI Client](https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client)
+- :keyboard: [CodeViz](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz)
 
 ### Github repositorios <a name="github"></a>
 
@@ -136,6 +146,7 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 
 - :hammer: [Ray.so](https://www.ray.so/) - Crea imagenes bonitas de tu codigo
 - :hammer: [JSON Generator](https://www.jsongenerator.io/) - Genara JSON a la medida
+- :hammer: [JSON Data AI](https://www.jsondataai.com/) - Genara JSON a la medida
 - :hammer: [Squoosh](https://squoosh.app/) - Comprimidor de imagenes
 - :hammer: [CSS Code Quality](https://www.projectwallace.com/css-code-quality) - Calidad del codigo CSS
 - :hammer: [PageSpeed Insights](https://pagespeed.web.dev/) - Informacion de la velocidad de la pagina
@@ -145,6 +156,7 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 - :hammer: [Errores](https://erroresapp.vercel.app/) - Documentacion de errores.
 - :hammer: [Commandos](https://commandsapp.vercel.app/) - Documentacion de comandos.
 - :hammer: [Keyboard Gif](https://keyboardapp-brown.vercel.app/) - Creacion Gif con el teclado.
+- :hammer: [Google Earth Studio](https://www.google.com/earth/studio/) - Creacion de videos sobre lugares.
 
 ### Libros <a name="books"></a>
 
