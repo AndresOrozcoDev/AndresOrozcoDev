@@ -116,6 +116,7 @@ Extensiones útiles para el navegador Chrome.
 Extensiones esenciales para Visual Studio Code.
 
 - :keyboard: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- :keyboard: [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 - :keyboard: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - :keyboard: [Live Share](https://code.visualstudio.com/learn/collaboration/live-share)
 - :keyboard: [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
