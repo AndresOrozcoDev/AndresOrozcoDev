@@ -110,6 +110,7 @@ Extensiones útiles para el navegador Chrome.
 - :toolbox: [Simulador Movil](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
 - :toolbox: [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?pli=1)
 - :toolbox: [html.to.design](https://chromewebstore.google.com/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed?hl=en)
+- :toolbox: [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=es)
 
 ### Extensiones VSCode <a name="vscode"></a>
 
