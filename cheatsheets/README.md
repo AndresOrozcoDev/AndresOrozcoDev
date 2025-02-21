@@ -13,7 +13,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 - :clipboard: [Curriculo Generador](#curriculum)
 - :man_student: [Aprendizaje](#learning)
 - :video_game: [Juegos](#games)
-- :toolbox: [Extensiones Chrome](#chrome)
+- :toolbox: [Extensiones](#chrome)
 - :keyboard: [Extensiones VSCode](#vscode)
 - :computer: [Repositorios Github](#github)
 - :movie_camera: [Canales Youtube](#youtube)
@@ -37,6 +37,8 @@ Aplicaciones que mejoran tu desarrollo.
 - :detective: [VSCode](https://code.visualstudio.com/)
 - :detective: [Postman](https://www.postman.com/)
 - :detective: [UrbanVPN](https://www.urban-vpn.com/)
+- :detective: [Git](https://git-scm.com/downloads)
+- :detective: [NVM](https://github.com/nvm-sh/nvm)
 
 ### Ingles <a name="english"></a>
 
@@ -100,17 +102,17 @@ Aprende y mejora tus habilidades de desarrollo jugando.
 - :apple: [Grid Garden](https://cssgridgarden.com/#es) - Juego para aprender CSS Grid
 - :apple: [CSS Grid Generator io](https://cssgridgenerator.io/) - Generador de CSS Grid
 
-### Extensiones Chrome <a name="chrome"></a>
+### Extensiones <a name="chrome"></a>
 
 Extensiones útiles para el navegador Chrome.
 
-- :toolbox: [Wappalzer](https://www.wappalyzer.com/)
-- :toolbox: [SEO Meta in 1 Click](https://chromewebstore.google.com/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc)
-- :toolbox: [Visbug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)
-- :toolbox: [Simulador Movil](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
-- :toolbox: [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?pli=1)
-- :toolbox: [html.to.design](https://chromewebstore.google.com/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed?hl=en)
-- :toolbox: [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=es)
+- :toolbox: [Wappalzer]()
+- :toolbox: [SEO Meta in 1 Click]()
+- :toolbox: [Visbug]()
+- :toolbox: [Simulador Movil]()
+- :toolbox: [ColorZilla]()
+- :toolbox: [html.to.design]()
+- :toolbox: [Lighthouse]()
 
 ### Extensiones VSCode <a name="vscode"></a>
 
