@@ -162,6 +162,7 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 - :hammer: [Keyboard Gif](https://keyboardapp-brown.vercel.app/) - Creacion Gif con el teclado.
 - :hammer: [Google Earth Studio](https://www.google.com/earth/studio/) - Creacion de videos sobre lugares.
 - :hammer: [Mult.dev](https://mult.dev/es) - Creacion de videos sobre viajes.
+- :hammer: [Git Ignore](https://www.toptal.com/developers/gitignore) - Genera .gitignore.
 
 ### Libros <a name="books"></a>
 
