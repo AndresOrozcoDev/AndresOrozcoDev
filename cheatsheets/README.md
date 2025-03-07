@@ -47,6 +47,7 @@ Apliaciones o certificados sobre el idioma Ingles.
 - :loudspeaker: [Certificación A2](https://www.freecodecamp.org/espanol/learn/a2-english-for-developers/)
 - :loudspeaker: [Certificación B1](https://www.freecodecamp.org/espanol/learn/b1-english-for-developers/)
 - :loudspeaker: [Vocabulario](https://www.languageguide.org/)
+- :loudspeaker: [Conversaciones](https://tandem.net/es)
 
 ### API's <a name="apis"></a>
 
@@ -89,6 +90,8 @@ Herramientas para generar tu currículum profesional.
 
 - :man_student: [Certiprof](https://free.certiprof.com/)
 - :man_student: [Codedex](https://www.codedex.io/)
+- :man_student: [Github](https://examregistration.github.com/)
+- :man_student: [Freecodecamp](https://www.freecodecamp.org/espanol/learn/)
 
 ### Games <a name="games"></a>
 
@@ -151,6 +154,7 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 - :hammer: [Ray.so](https://www.ray.so/) - Crea imagenes bonitas de tu codigo
 - :hammer: [JSON Generator](https://www.jsongenerator.io/) - Genara JSON a la medida
 - :hammer: [JSON Data AI](https://www.jsondataai.com/) - Genara JSON a la medida
+- :hammer: [Retool](https://retool.com/api-generator) - Genara JSON a la medida
 - :hammer: [Squoosh](https://squoosh.app/) - Comprimidor de imagenes
 - :hammer: [CSS Code Quality](https://www.projectwallace.com/css-code-quality) - Calidad del codigo CSS
 - :hammer: [PageSpeed Insights](https://pagespeed.web.dev/) - Informacion de la velocidad de la pagina
@@ -163,6 +167,7 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 - :hammer: [Google Earth Studio](https://www.google.com/earth/studio/) - Creacion de videos sobre lugares.
 - :hammer: [Mult.dev](https://mult.dev/es) - Creacion de videos sobre viajes.
 - :hammer: [Git Ignore](https://www.toptal.com/developers/gitignore) - Genera .gitignore.
+- :hammer: [Interview Sidekick](https://interviewsidekick.com/) - Ayudante en entrevistas.
 
 ### Libros <a name="books"></a>
 
