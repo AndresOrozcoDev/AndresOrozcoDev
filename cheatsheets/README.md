@@ -151,7 +151,9 @@ Canales de YouTube con contenido educativo y tutoriales.
 
 Herramientas adicionales para mejorar tu flujo de trabajo.
 
+- :hammer: [Free for dev](https://free-for.dev/#/) - Recursos para desarrolladores
 - :hammer: [Ray.so](https://www.ray.so/) - Crea imagenes bonitas de tu codigo
+- :hammer: [Regex101](https://regex101.com/) - Expresiones regulares
 - :hammer: [JSON Generator](https://www.jsongenerator.io/) - Genara JSON a la medida
 - :hammer: [JSON Data AI](https://www.jsondataai.com/) - Genara JSON a la medida
 - :hammer: [Retool](https://retool.com/api-generator) - Genara JSON a la medida
@@ -160,6 +162,7 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 - :hammer: [PageSpeed Insights](https://pagespeed.web.dev/) - Informacion de la velocidad de la pagina
 - :hammer: [Pingdom](https://tools.pingdom.com/) - Informacion de la velocidad de la pagina
 - :hammer: [ChartDB](https://app.chartdb.io/) - Creacion de diagrmas de bases de datos.
+- :hammer: [DB Diagram](https://dbdiagram.io/home/) - Creacion de diagrmas de bases de datos.
 - :hammer: [Real Favicon Generator .Net](https://realfavicongenerator.net/) - Creacion de iconos y favicon.
 - :hammer: [Errores](https://erroresapp.vercel.app/) - Documentacion de errores.
 - :hammer: [Commandos](https://commandsapp.vercel.app/) - Documentacion de comandos.
