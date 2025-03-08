@@ -168,6 +168,7 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 - :hammer: [Mult.dev](https://mult.dev/es) - Creacion de videos sobre viajes.
 - :hammer: [Git Ignore](https://www.toptal.com/developers/gitignore) - Genera .gitignore.
 - :hammer: [Interview Sidekick](https://interviewsidekick.com/) - Ayudante en entrevistas.
+- :hammer: [Shadow Map](https://shadowmap.org/es/) - Vistas de sol y sombras.
 
 ### Libros <a name="books"></a>
 
