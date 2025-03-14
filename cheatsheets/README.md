@@ -188,6 +188,12 @@ Algunos recursos útiles adicionales.
 
 ![Comandos Git](./utils/git_commads.jpg)
 
+### Comandos de Git
+
+> Aquí te dejamos una explicacion de como funciona Git
+
+![Prefijos Git](./utils/git_prefijos.jpeg)
+
 ### Prefijos para hacer commits en Git
 
 > Aquí te dejamos un ejemplo con los prefijos de Git.
