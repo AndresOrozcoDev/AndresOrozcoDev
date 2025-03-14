@@ -192,7 +192,7 @@ Algunos recursos útiles adicionales.
 
 > Aquí te dejamos una explicacion de como funciona Git
 
-![Espacios de trabajo Git](./utils/git_worksapce.gif)
+![Espacios de trabajo Git](./utils/git_workspace.gif)
 
 ### Prefijos para hacer commits en Git
 
