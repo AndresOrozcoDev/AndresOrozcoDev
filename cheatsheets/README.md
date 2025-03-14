@@ -188,11 +188,11 @@ Algunos recursos útiles adicionales.
 
 ![Comandos Git](./utils/git_commads.jpg)
 
-### Comandos de Git
+### Espacios de trabajo de Git
 
 > Aquí te dejamos una explicacion de como funciona Git
 
-![Prefijos Git](./utils/git_prefijos.jpeg)
+![Espacios de trabajo Git](./utils/git_worksapce.gif)
 
 ### Prefijos para hacer commits en Git
 
