@@ -173,6 +173,7 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 - :hammer: [Git Ignore](https://www.toptal.com/developers/gitignore) - Genera .gitignore.
 - :hammer: [Interview Sidekick](https://interviewsidekick.com/) - Ayudante en entrevistas.
 - :hammer: [Shadow Map](https://shadowmap.org/es/) - Vistas de sol y sombras.
+- :hammer: [Shots](https://shots.so/) - Creacion de mockups.
 
 ### Libros <a name="books"></a>
 
