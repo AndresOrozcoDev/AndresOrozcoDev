@@ -224,3 +224,9 @@ Algunos recursos útiles adicionales.
 > Codigos de respuestas en servicios HTTP.
 
 ![Codigos de respuesta](./utils/response_status_code_HTTP_services.gif)
+
+### Estructuras de carpetas
+
+> Tipos de arquitecturas para carpetas de proyectos.
+
+![Arquitecturas de carpetas](./utils/architecture_folder.JPG)
