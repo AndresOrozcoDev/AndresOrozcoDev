@@ -229,4 +229,4 @@ Algunos recursos útiles adicionales.
 
 > Tipos de arquitecturas para carpetas de proyectos.
 
-![Arquitecturas de carpetas](./utils/architecture_folder.JPG)
+![Arquitecturas de carpetas](./utils/architecture_folder.jpg)
