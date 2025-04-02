@@ -1,16 +1,18 @@
+
 # :rocket: Recursos para Desarrolladores
 
 Este repositorio recopila herramientas, recursos y enlaces útiles para desarrolladores de software. Aquí encontrarás desde generadores de README hasta juegos educativos, pasando por extensiones útiles y ejemplos de código.
 
 ## Indice
 
-- :rocket: [Copilot](#copilot)
+- :rocket: [Asistentes](#copilot)
 - :detective: [Aplicaciones](#apps)
 - :loudspeaker: [Ingles](#english)
 - :flying_saucer: [API's](#apis)
-- :page_facing_up: [README Generador](#readme)
+- :page_facing_up: [README](#readme)
 - :art: [Diseño](#design)
-- :clipboard: [Curriculo Generador](#curriculum)
+- :bellhop_bell: [Recursos](#resource)
+- :clipboard: [Curriculo](#curriculum)
 - :man_student: [Aprendizaje](#learning)
 - :video_game: [Juegos](#games)
 - :toolbox: [Extensiones](#chrome)
@@ -21,7 +23,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 - :closed_book: [Libros](#books)
 
 
-### Copilot <a name="copilot"></a>
+### Asistentes <a name="copilot"></a>
 
 Herramientas que mejoran la productividad de desarrollo con IA.
 
@@ -57,7 +59,7 @@ Herramientas que mejoran la productividad de desarrollo con IA.
 - :flying_saucer: [Public API](https://publicapis.dev/)
 - :flying_saucer: [Dummy JSON](https://dummyjson.com/)
 
-### README Generador <a name="readme"></a>
+### README <a name="readme"></a>
 
 Generadores para crear tu README de manera rápida y profesional.
 
@@ -78,6 +80,28 @@ Recursos visuales y herramientas para diseñadores.
 - :art: [font Awesome](https://fontawesome.com/) - Libreria de iconos
 - :art: [Lucide Icons](https://lucide.dev/icons/) - Libreria de iconos
 - :art: [Google Fonts](https://fonts.google.com/) - Fuentes de Google
+
+### Recursos <a name="resources"></a> 
+
+- :bellhop_bell: [Shots](https://shots.so/) - Creacion de mockups.
+- :bellhop_bell: [Postspark](https://postspark.app/home) - Creacion de mockups.
+- :bellhop_bell: [Lenguajecss](https://lenguajecss.com/css/funciones-css/referencia/) - Documentacion de funciones CSS.
+- :bellhop_bell: [Git Ignore](https://www.toptal.com/developers/gitignore) - Genera .gitignore.
+- :bellhop_bell: [Free for dev](https://free-for.dev/#/) - Recursos para desarrolladores
+- :bellhop_bell: [Ray.so](https://www.ray.so/) - Crea imagenes bonitas de tu codigo
+- :bellhop_bell: [Regex101](https://regex101.com/) - Expresiones regulares
+- :bellhop_bell: [JSON Generator](https://www.jsongenerator.io/) - Genara JSON a la medida
+- :bellhop_bell: [JSON Data AI](https://www.jsondataai.com/) - Genara JSON a la medida
+- :bellhop_bell: [Retool](https://retool.com/api-generator) - Genara JSON a la medida
+- :bellhop_bell: [Squoosh](https://squoosh.app/) - Comprimidor de imagenes
+- :bellhop_bell: [CSS Code Quality](https://www.projectwallace.com/css-code-quality) - Calidad del codigo CSS
+- :bellhop_bell: [PageSpeed Insights](https://pagespeed.web.dev/) - Informacion de la velocidad de la pagina
+- :bellhop_bell: [Pingdom](https://tools.pingdom.com/) - Informacion de la velocidad de la pagina
+- :bellhop_bell: [ChartDB](https://app.chartdb.io/) - Creacion de diagrmas de bases de datos.
+- :bellhop_bell: [DB Diagram](https://dbdiagram.io/home/) - Creacion de diagrmas de bases de datos.
+- :bellhop_bell: [Real Favicon Generator .Net](https://realfavicongenerator.net/) - Creacion de iconos y favicon.
+- :bellhop_bell: [Errores](https://erroresapp.vercel.app/) - Documentacion de errores.
+- :bellhop_bell: [Commandos](https://commandsapp.vercel.app/) - Documentacion de comandos.
 
 ### Curriculo <a name="curriculum"></a>
 
@@ -152,30 +176,11 @@ Canales de YouTube con contenido educativo y tutoriales.
 
 Herramientas adicionales para mejorar tu flujo de trabajo.
 
-- :hammer: [Free for dev](https://free-for.dev/#/) - Recursos para desarrolladores
-- :hammer: [Ray.so](https://www.ray.so/) - Crea imagenes bonitas de tu codigo
-- :hammer: [Regex101](https://regex101.com/) - Expresiones regulares
-- :hammer: [JSON Generator](https://www.jsongenerator.io/) - Genara JSON a la medida
-- :hammer: [JSON Data AI](https://www.jsondataai.com/) - Genara JSON a la medida
-- :hammer: [Retool](https://retool.com/api-generator) - Genara JSON a la medida
-- :hammer: [Squoosh](https://squoosh.app/) - Comprimidor de imagenes
-- :hammer: [CSS Code Quality](https://www.projectwallace.com/css-code-quality) - Calidad del codigo CSS
-- :hammer: [PageSpeed Insights](https://pagespeed.web.dev/) - Informacion de la velocidad de la pagina
-- :hammer: [Pingdom](https://tools.pingdom.com/) - Informacion de la velocidad de la pagina
-- :hammer: [ChartDB](https://app.chartdb.io/) - Creacion de diagrmas de bases de datos.
-- :hammer: [DB Diagram](https://dbdiagram.io/home/) - Creacion de diagrmas de bases de datos.
-- :hammer: [Real Favicon Generator .Net](https://realfavicongenerator.net/) - Creacion de iconos y favicon.
-- :hammer: [Errores](https://erroresapp.vercel.app/) - Documentacion de errores.
-- :hammer: [Commandos](https://commandsapp.vercel.app/) - Documentacion de comandos.
 - :hammer: [Keyboard Gif](https://keyboardapp-brown.vercel.app/) - Creacion Gif con el teclado.
 - :hammer: [Google Earth Studio](https://www.google.com/earth/studio/) - Creacion de videos sobre lugares.
 - :hammer: [Mult.dev](https://mult.dev/es) - Creacion de videos sobre viajes.
-- :hammer: [Git Ignore](https://www.toptal.com/developers/gitignore) - Genera .gitignore.
 - :hammer: [Interview Sidekick](https://interviewsidekick.com/) - Ayudante en entrevistas.
 - :hammer: [Shadow Map](https://shadowmap.org/es/) - Vistas de sol y sombras.
-- :hammer: [Shots](https://shots.so/) - Creacion de mockups.
-- :hammer: [Postspark](https://postspark.app/home) - Creacion de mockups.
-- :hammer: [Lenguajecss](https://lenguajecss.com/css/funciones-css/referencia/) - Documentacion de funciones CSS.
 
 ### Libros <a name="books"></a>
 
