@@ -41,6 +41,8 @@ Aplicaciones que mejoran tu desarrollo.
 - :detective: [UrbanVPN](https://www.urban-vpn.com/)
 - :detective: [Git](https://git-scm.com/downloads)
 - :detective: [NVM](https://github.com/nvm-sh/nvm)
+- :detective: [Superbase](https://supabase.com/)
+- :detective: [Firebase]()
 
 ### Ingles <a name="english"></a>
 
@@ -77,12 +79,12 @@ Recursos visuales y herramientas para diseñadores.
 - :art: [Toools.design](https://www.toools.design/) - Ayudas para recursos
 - :art: [Tailwind CSS Color Generator](https://uicolors.app/create) - Generador de colores
 - :art: [Coolors](https://coolors.co/) - El generador de paletas de colores superrápido
-- :art: [font Awesome](https://fontawesome.com/) - Libreria de iconos
-- :art: [Lucide Icons](https://lucide.dev/icons/) - Libreria de iconos
-- :art: [Google Fonts](https://fonts.google.com/) - Fuentes de Google
 
 ### Recursos <a name="resources"></a> 
 
+- :bellhop_bell: [font Awesome](https://fontawesome.com/) - Libreria de iconos
+- :bellhop_bell: [Lucide Icons](https://lucide.dev/icons/) - Libreria de iconos
+- :bellhop_bell: [Google Fonts](https://fonts.google.com/) - Fuentes de Google
 - :bellhop_bell: [Shots](https://shots.so/) - Creacion de mockups.
 - :bellhop_bell: [Postspark](https://postspark.app/home) - Creacion de mockups.
 - :bellhop_bell: [Lenguajecss](https://lenguajecss.com/css/funciones-css/referencia/) - Documentacion de funciones CSS.
@@ -102,13 +104,16 @@ Recursos visuales y herramientas para diseñadores.
 - :bellhop_bell: [Real Favicon Generator .Net](https://realfavicongenerator.net/) - Creacion de iconos y favicon.
 - :bellhop_bell: [Errores](https://erroresapp.vercel.app/) - Documentacion de errores.
 - :bellhop_bell: [Commandos](https://commandsapp.vercel.app/) - Documentacion de comandos.
+- :bellhop_bell: [CSS Grid Generator io](https://cssgridgenerator.io/) - Generador de CSS Grid.
+- :bellhop_bell: [SQLite Viewer](https://sqliteviewer.app/) - Visualizador de SQLite.
 
 ### Curriculo <a name="curriculum"></a>
 
 Herramientas para generar tu currículum profesional.
 
-- :clipboard: [ResumeGo](https://www.resumego.net/resume-checker/) - Verificador de resumen
-- :clipboard: [AI Apply](https://aiapply.co/) - Creacion de resumen
+- :clipboard: [ResumeGo](https://www.resumego.net/resume-checker/) - Verificador de resumen.
+- :clipboard: [Resume](https://resmume.com/resume-ats-checker/) - Verificador de resumen.
+- :clipboard: [AI Apply](https://aiapply.co/) - Creacion de resumen.
 
 ### Aprendizaje <a name="learning"></a>
 
@@ -116,19 +121,19 @@ Herramientas para generar tu currículum profesional.
 - :man_student: [Codedex](https://www.codedex.io/)
 - :man_student: [Github](https://examregistration.github.com/)
 - :man_student: [Freecodecamp](https://www.freecodecamp.org/espanol/learn/)
+- :man_student: [Cursos desafio latam](https://cursos.desafiolatam.com/collections)
 
 ### Games <a name="games"></a>
 
 Aprende y mejora tus habilidades de desarrollo jugando.
 
-- :video_game: [Checkio](https://checkio.org/) - Juego para aprender Python y Typescript
-- :video_game: [Codedex](https://www.codedex.io/) - Juego para aprender HTML, Python y Typescript
-- :video_game: [ZType](https://www.typing.com/es/student/game/ztype) - Juego de teclao
-- :video_game: [ZType](https://learngitbranching.js.org/?locale=es_ES) - Juego para aprender Git
-- :apple: [Flexbox Froggy](https://flexboxfroggy.com/#es) - Juego para aprender CSS Flexbox
-- :apple: [CSS Dinner](https://flukeout.github.io/) - Juego para aprender los selectores con CSS
-- :apple: [Grid Garden](https://cssgridgarden.com/#es) - Juego para aprender CSS Grid
-- :apple: [CSS Grid Generator io](https://cssgridgenerator.io/) - Generador de CSS Grid
+- :video_game: [Checkio](https://checkio.org/) - Juego para aprender Python y Typescript.
+- :video_game: [Codedex](https://www.codedex.io/) - Juego para aprender HTML, Python y Typescript.
+- :video_game: [ZType](https://www.typing.com/es/student/game/ztype) - Juego de teclao.
+- :video_game: [ZType](https://learngitbranching.js.org/?locale=es_ES) - Juego para aprender Git.
+- :video_game: [Flexbox Froggy](https://flexboxfroggy.com/#es) - Juego para aprender CSS Flexbox.
+- :video_game: [CSS Dinner](https://flukeout.github.io/) - Juego para aprender los selectores con CSS.
+- :video_game: [Grid Garden](https://cssgridgarden.com/#es) - Juego para aprender CSS Grid.
 
 ### Extensiones <a name="chrome"></a>
 
