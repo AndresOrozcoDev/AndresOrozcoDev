@@ -11,7 +11,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 - :flying_saucer: [API's](#apis)
 - :page_facing_up: [README](#readme)
 - :art: [Diseño](#design)
-- :bellhop_bell: [Recursos](#resource)
+- :bellhop_bell: [Recursos](#resources)
 - :clipboard: [Curriculo](#curriculum)
 - :man_student: [Aprendizaje](#learning)
 - :video_game: [Juegos](#games)
