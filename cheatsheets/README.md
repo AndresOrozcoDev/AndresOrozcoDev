@@ -162,6 +162,7 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [Intellisense for CSS Class Names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 - :keyboard: [RapidAPI Client](https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client)
 - :keyboard: [CodeViz](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz)
+- :keyboard: [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 
 ### Github repositorios <a name="github"></a>
 
