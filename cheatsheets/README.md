@@ -163,6 +163,7 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [RapidAPI Client](https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client)
 - :keyboard: [CodeViz](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz)
 - :keyboard: [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- :keyboard: [Biome.js](https://marketplace.visualstudio.com/items?itemName=biomejs.biome)
 
 ### Github repositorios <a name="github"></a>
 
