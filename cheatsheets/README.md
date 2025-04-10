@@ -123,6 +123,7 @@ Herramientas para generar tu currículum profesional.
 - :man_student: [Github](https://examregistration.github.com/)
 - :man_student: [Freecodecamp](https://www.freecodecamp.org/espanol/learn/)
 - :man_student: [Cursos desafio latam](https://cursos.desafiolatam.com/collections)
+- :man_student: [Dev challenges](https://devchallenges.io/)
 
 ### Games <a name="games"></a>
 
@@ -135,6 +136,8 @@ Aprende y mejora tus habilidades de desarrollo jugando.
 - :video_game: [Flexbox Froggy](https://flexboxfroggy.com/#es) - Juego para aprender CSS Flexbox.
 - :video_game: [CSS Dinner](https://flukeout.github.io/) - Juego para aprender los selectores con CSS.
 - :video_game: [Grid Garden](https://cssgridgarden.com/#es) - Juego para aprender CSS Grid.
+- :video_game: [Flexbox Defense](http://www.flexboxdefense.com/) - Juego para aprender CSS Flexbox.
+- :video_game: [Flexbox Zombies](https://mastery.games/post/flexboxzombies2/) - Juego para aprender CSS Flexbox.
 
 ### Extensiones <a name="chrome"></a>
 
