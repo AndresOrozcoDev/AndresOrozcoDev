@@ -201,6 +201,20 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 
 Algunos recursos útiles adicionales.
 
+### Patrones de diseño
+
+> Nos ayuda a mejorar nuestro codigo.
+
+### Patrones de arquitectura
+
+> Nos ayuda a definir como se comportara cada uno de nuestros elementos de la aplicacion.
+
+### Arquitecturas de software
+
+> Nos ayuda a definir como todos los elementos de nuestra aplciacion van a interactuar.
+
+![Arquitecturas de una aplicacion](./utils/aplication_architecture.gif)
+
 ### Comandos Git
 
 > Aquí te dejamos algunos comandos mas utilizados.
@@ -219,13 +233,7 @@ Algunos recursos útiles adicionales.
 
 ![Prefijos Git](./utils/git_prefijos.jpeg)
 
-### Arquitecturas de una aplicacion.
-
-> Cómo se organiza la aplicación a nivel de diseño y estructura.
-
-![Arquitecturas de una aplicacion](./utils/aplication_architecture.gif)
-
-### Arquitecturas de comunicación entre servicios.
+### Arquitecturas de comunicación entre servicios o aplicaciones.
 
 > Protocolos o métodos que se usan para que los componentes de la aplicación (o aplicaciones externas) se comuniquen entre sí.
 
