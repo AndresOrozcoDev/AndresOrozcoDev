@@ -1,6 +1,9 @@
 # 💫 About Me:
-Systems Engineer graduated in Medellín, Col <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13"/>. but currently residing in Miami, USA <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>. I am a person who loves code, good practices and a true believer in teamwork.<br><br>Since 2020 I started with frontend development with more than three years of experience in languages ​​such as HTML5, CSS3 and JAVASCRIPT using frameworks and libraries such as ANGULAR and REACT, as well as BOOTSTAP and TAILWIND.<br><br>In 2023 I began to discover PYTHON 3 and its FASTAPI web framework. I am also getting to know NODE JS with the EXPRESS JS framework, which motivates me to be constantly learning.
+I am a Systems Engineer with over three years of experience in software development, specializing in creating Full-Stack web applications with a focus on modern front-end and robust back-end applications. I graduated from Medellin, Colombia <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13"/>, but am currently authorized to reside in Miami, USA <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>.
 
+I specialize in Full-Stack web applications and have solid knowledge of front-end development using HTML5, CSS3, JavaScript, and TypeScript, as well as modern frameworks and libraries such as Angular and React. I am proficient in back-end development in Python and Node with FastAPI and Express.
+
+I am passionate about teamwork, solving complex problems, and developing clean and maintainable code. I always seek to learn new technologies, add value to each project, and participate in the creation of high-impact products.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andres-orozco-dev/) 
