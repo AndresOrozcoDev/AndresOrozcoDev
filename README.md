@@ -1,9 +1,9 @@
 # 💫 About Me:
-I am a Systems Engineer with over three years of experience in software development, specializing in creating Full-Stack web applications with a focus on modern front-end and robust back-end applications. I graduated from Medellin, Colombia <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13"/>, but am currently authorized to reside in Miami, USA <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>.
+I’m a Software Developer with over three years of experience building modern, scalable web applications. My technical expertise spans front-end development (Angular, React, HTML, CSS), back-end technologies (Python, FastAPI, Express.js), and both relational and non-relational databases.
 
-I specialize in Full-Stack web applications and have solid knowledge of front-end development using HTML5, CSS3, JavaScript, and TypeScript, as well as modern frameworks and libraries such as Angular and React. I am proficient in back-end development in Python and Node with FastAPI and Express.
+I thrive on solving complex technical challenges, optimizing performance, and developing products that make a real impact. I’m passionate about writing clean, maintainable code and collaborating with cross-functional teams under agile methodologies.
 
-I am passionate about teamwork, solving complex problems, and developing clean and maintainable code. I always seek to learn new technologies, add value to each project, and participate in the creation of high-impact products.
+Based in Miami, Florida <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>, I’m authorized to work in the U.S. and open to remote or hybrid opportunities across the U.S. and Latin America <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13"/>.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andres-orozco-dev/) 
