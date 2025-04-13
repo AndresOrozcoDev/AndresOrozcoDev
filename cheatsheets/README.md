@@ -213,11 +213,11 @@ Algunos recursos útiles adicionales.
 
 ### Arquitecturas de software
 
-> Es la disciplina completa que nos ayuda a definir las decisiones fundamentales sobre la estructura y comportamiento del sistema.
+> Es la disciplina completa que nos ayuda a definir las decisiones fundamentales sobre la estructura y comportamiento del sistema.  
 > Incluye **Patrones de arquitectura**.  
-> Definición de capas del sistema.
-> Tecnología usada.
-> Estrategias de escalabilidad y mantenibilidad.
+> Definición de capas del sistema.  
+> Tecnología usada.  
+> Estrategias de escalabilidad y mantenibilidad.  
 
 ### Comandos Git
 
