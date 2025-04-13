@@ -12,6 +12,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 - :page_facing_up: [README](#readme)
 - :art: [Diseño](#design)
 - :bellhop_bell: [Recursos](#resources)
+- :package: [Librerias](#packages)
 - :clipboard: [Curriculo](#curriculum)
 - :man_student: [Aprendizaje](#learning)
 - :video_game: [Juegos](#games)
@@ -107,6 +108,10 @@ Recursos visuales y herramientas para diseñadores.
 - :bellhop_bell: [Commandos](https://commandsapp.vercel.app/) - Documentacion de comandos.
 - :bellhop_bell: [CSS Grid Generator io](https://cssgridgenerator.io/) - Generador de CSS Grid.
 - :bellhop_bell: [SQLite Viewer](https://sqliteviewer.app/) - Visualizador de SQLite.
+
+### Librerias <a name="packages"></a> 
+
+- :package: [npkill](https://www.npmjs.com/package/npkill) - Libreria para eliminar paquetes npm sin uso.
 
 ### Curriculo <a name="curriculum"></a>
 
