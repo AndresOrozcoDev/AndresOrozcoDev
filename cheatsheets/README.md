@@ -268,3 +268,9 @@ Algunos recursos útiles adicionales.
 > Tipos de arquitecturas para carpetas de proyectos.
 
 ![Arquitecturas de carpetas](./utils/architecture_folder.jpg)
+
+### Comandos de Docker
+
+> Comandos basicos de Docker.
+
+![Arquitecturas de carpetas](./utils/docker_commands.jpg)
