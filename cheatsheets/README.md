@@ -122,6 +122,7 @@ Herramientas para generar tu currículum profesional.
 - :clipboard: [Resume](https://resmume.com/resume-ats-checker/) - Verificador de resumen.
 - :clipboard: [AI Apply](https://aiapply.co/) - Creacion de resumen.
 - :clipboard: [Jobscan](https://www.jobscan.co/) - Verificador de resumen.
+- :clipboard: [Resume Worded](https://resumeworded.com/index.php) - Verificador de resumen.
 
 ### Aprendizaje <a name="learning"></a>
 
