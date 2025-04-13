@@ -88,6 +88,7 @@ Recursos visuales y herramientas para diseñadores.
 - :bellhop_bell: [Google Fonts](https://fonts.google.com/) - Fuentes de Google
 - :bellhop_bell: [Croll Bar](https://scrollbar.app/) - Estilos para el scroll.
 - :bellhop_bell: [Shots](https://shots.so/) - Creacion de mockups.
+- :bellhop_bell: [Python Tutor](https://pythontutor.com/) - Ejecutador de codigo python y javascript.
 - :bellhop_bell: [Postspark](https://postspark.app/home) - Creacion de mockups.
 - :bellhop_bell: [Lenguajecss](https://lenguajecss.com/css/funciones-css/referencia/) - Documentacion de funciones CSS.
 - :bellhop_bell: [Git Ignore](https://www.toptal.com/developers/gitignore) - Genera .gitignore.
