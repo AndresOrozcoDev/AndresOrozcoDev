@@ -207,13 +207,17 @@ Algunos recursos útiles adicionales.
 
 ### Patrones de arquitectura
 
-> Nos ayuda a definir como se comportara cada uno de nuestros elementos de la aplicacion.
+> Nos ayuda a definir u organizar cómo se comunican y estructuran los componentes de un sistema, algunos ejemplos.
+
+![Arquitecturas de una aplicacion](./utils/aplication_architecture.gif)
 
 ### Arquitecturas de software
 
-> Nos ayuda a definir como todos los elementos de nuestra aplciacion van a interactuar.
-
-![Arquitecturas de una aplicacion](./utils/aplication_architecture.gif)
+> Es la disciplina completa que nos ayuda a definir las decisiones fundamentales sobre la estructura y comportamiento del sistema.
+> Incluye **Patrones de arquitectura**.
+> Definición de capas del sistema.
+> Tecnología usada.
+> Estrategias de escalabilidad y mantenibilidad.
 
 ### Comandos Git
 
