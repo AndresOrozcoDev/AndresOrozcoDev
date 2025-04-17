@@ -12,6 +12,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 - :page_facing_up: [README](#readme)
 - :art: [Diseño](#design)
 - :bellhop_bell: [Recursos](#resources)
+- :classical_building: [Hosting](#hosting)
 - :package: [Librerias](#packages)
 - :clipboard: [Curriculo](#curriculum)
 - :man_student: [Aprendizaje](#learning)
@@ -42,8 +43,6 @@ Aplicaciones que mejoran tu desarrollo.
 - :detective: [UrbanVPN](https://www.urban-vpn.com/)
 - :detective: [Git](https://git-scm.com/downloads)
 - :detective: [NVM](https://github.com/nvm-sh/nvm)
-- :detective: [Superbase](https://supabase.com/)
-- :detective: [Firebase]()
 
 ### Ingles <a name="english"></a>
 
@@ -110,6 +109,15 @@ Recursos visuales y herramientas para diseñadores.
 - :bellhop_bell: [CSS Grid Generator io](https://cssgridgenerator.io/) - Generador de CSS Grid.
 - :bellhop_bell: [SQLite Viewer](https://sqliteviewer.app/) - Visualizador de SQLite.
 
+### Hosting <a name="hosting"></a> 
+
+- :classical_building: [Vercel]() - Aplicaciones Frontend.
+- :classical_building: [Netlify]() - Aplicaciones Frontend.
+- :classical_building: [Render]() - Aplicaciones Backend.
+- :classical_building: [Superbase](https://supabase.com/) - Bases de datos.
+- :classical_building: [Firebase]() - Bases de datos.
+- :classical_building: [Dokploy](https://dokploy.com/) - Bases de datos.
+  
 ### Librerias <a name="packages"></a> 
 
 - :package: [npkill](https://www.npmjs.com/package/npkill) - Libreria para eliminar paquetes npm sin uso.
