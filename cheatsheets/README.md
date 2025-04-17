@@ -30,6 +30,7 @@ Este repositorio recopila herramientas, recursos y enlaces útiles para desarrol
 Herramientas que mejoran la productividad de desarrollo con IA.
 
 - :rocket: [Chat GPT](https://chatgpt.com/)
+- :rocket: [Gemini](https://gemini.google.com/)
 - :rocket: [Claude](https://claude.ai/new)
 - :rocket: [Black box](https://www.blackbox.ai/)
 - :rocket: [You](https://you.com/)
