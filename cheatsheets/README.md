@@ -169,6 +169,7 @@ Extensiones útiles para el navegador Chrome.
 - :toolbox: [ColorZilla]()
 - :toolbox: [html.to.design]()
 - :toolbox: [Lighthouse]()
+- :toolbox: [GoFullPage]()
 
 ### Extensiones VSCode <a name="vscode"></a>
 
