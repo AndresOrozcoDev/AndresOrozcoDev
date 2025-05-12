@@ -115,7 +115,8 @@ Recursos visuales y herramientas para diseñadores.
 
 - :classical_building: [Vercel]() - Aplicaciones Frontend.
 - :classical_building: [Netlify]() - Aplicaciones Frontend.
-- :classical_building: [Render]() - Aplicaciones Backend.
+- :classical_building: [Render]() - Aplicaciones Backend Express y FastAPI.
+- :classical_building: [FastAPI Cloud](https://fastapicloud.com/) - Aplicaciones Backend FastAPI.
 - :classical_building: [Superbase](https://supabase.com/) - Bases de datos.
 - :classical_building: [Firebase]() - Bases de datos.
 - :classical_building: [Dokploy](https://dokploy.com/) - Bases de datos.
