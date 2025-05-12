@@ -262,7 +262,7 @@ Algunos recursos útiles adicionales.
 
 > Protocolos o métodos que se usan para que los componentes de la aplicación (o aplicaciones externas) se comuniquen entre sí.
 
-![Arquitecturas de comunicación entre servicios](./utils/comunication_architecture.gif)
+![Arquitecturas de comunicación entre servicios](./utils/API_Architectures.gif)
 
 ### JOIN en SQL
 
