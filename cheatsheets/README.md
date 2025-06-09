@@ -188,7 +188,6 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [CodeViz](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz)
 - :keyboard: [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - :keyboard: [Biome.js](https://marketplace.visualstudio.com/items?itemName=biomejs.biome)
-- :keyboard: [Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
 ### Github repositorios <a name="github"></a>
 
