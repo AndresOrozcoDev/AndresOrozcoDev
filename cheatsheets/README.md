@@ -212,6 +212,7 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 - :hammer: [Google Earth Studio](https://www.google.com/earth/studio/) - Creacion de videos sobre lugares.
 - :hammer: [Mult.dev](https://mult.dev/es) - Creacion de videos sobre viajes.
 - :hammer: [Interview Sidekick](https://interviewsidekick.com/) - Ayudante en entrevistas.
+- :hammer: [EzDubs](https://ezdubs.ai/google-meet-extension) - Traductor en vivo en reuniones por Google Meets.
 - :hammer: [Shadow Map](https://shadowmap.org/es/) - Vistas de sol y sombras.
 
 ### Libros <a name="books"></a>
