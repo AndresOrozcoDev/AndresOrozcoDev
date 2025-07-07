@@ -49,6 +49,7 @@ Aplicaciones que mejoran tu desarrollo.
 
 Apliaciones o certificados sobre el idioma Ingles.
 
+- :loudspeaker: [Certificación EF SET](https://www.efset.org/)
 - :loudspeaker: [Certificación A2](https://www.freecodecamp.org/espanol/learn/a2-english-for-developers/)
 - :loudspeaker: [Certificación B1](https://www.freecodecamp.org/espanol/learn/b1-english-for-developers/)
 - :loudspeaker: [Vocabulario](https://www.languageguide.org/)
