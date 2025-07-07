@@ -54,6 +54,8 @@ Apliaciones o certificados sobre el idioma Ingles.
 - :loudspeaker: [Certificación B1](https://www.freecodecamp.org/espanol/learn/b1-english-for-developers/)
 - :loudspeaker: [Vocabulario](https://www.languageguide.org/)
 - :loudspeaker: [Conversaciones](https://tandem.net/es)
+- :loudspeaker: [Curso ingles](https://curso-ingles.com/)
+- :loudspeaker: [BBC Learning English](https://www.bbc.co.uk/learningenglish)
 
 ### API's <a name="apis"></a>
 
@@ -154,6 +156,7 @@ Aprende y mejora tus habilidades de desarrollo jugando.
 - :video_game: [Codedex](https://www.codedex.io/) - Juego para aprender HTML, Python y Typescript.
 - :video_game: [ZType](https://www.typing.com/es/student/game/ztype) - Juego de teclao.
 - :video_game: [ZType](https://learngitbranching.js.org/?locale=es_ES) - Juego para aprender Git.
+- :video_game: [Play with Docker](https://labs.play-with-docker.com/) - Juego para aprender DOCKER.
 - :video_game: [Flexbox Froggy](https://flexboxfroggy.com/#es) - Juego para aprender CSS Flexbox.
 - :video_game: [CSS Dinner](https://flukeout.github.io/) - Juego para aprender los selectores con CSS.
 - :video_game: [Grid Garden](https://cssgridgarden.com/#es) - Juego para aprender CSS Grid.
@@ -195,6 +198,7 @@ Extensiones esenciales para Visual Studio Code.
 Repositorios útiles para desarrolladores de todos los niveles.
 
 - :computer: [miduDev](https://github.com/midudev)
+- :computer: [MoureDev](https://github.com/mouredev)
 - :computer: [Frontend Joe](https://github.com/frontend-joe)
 - :computer: [Bezkoder](https://github.com/bezkoder)
 - :computer: [mtdvio (every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know)
