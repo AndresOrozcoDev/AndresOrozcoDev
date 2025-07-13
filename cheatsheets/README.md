@@ -96,16 +96,17 @@ Recursos visuales y herramientas para diseñadores.
 - :bellhop_bell: [Postspark](https://postspark.app/home) - Creacion de mockups.
 - :bellhop_bell: [Lenguajecss](https://lenguajecss.com/css/funciones-css/referencia/) - Documentacion de funciones CSS.
 - :bellhop_bell: [Git Ignore](https://www.toptal.com/developers/gitignore) - Genera .gitignore.
-- :bellhop_bell: [Free for dev](https://free-for.dev/#/) - Recursos para desarrolladores
-- :bellhop_bell: [Ray.so](https://www.ray.so/) - Crea imagenes bonitas de tu codigo
-- :bellhop_bell: [Regex101](https://regex101.com/) - Expresiones regulares
-- :bellhop_bell: [JSON Generator](https://www.jsongenerator.io/) - Genara JSON a la medida
-- :bellhop_bell: [JSON Data AI](https://www.jsondataai.com/) - Genara JSON a la medida
-- :bellhop_bell: [Retool](https://retool.com/api-generator) - Genara JSON a la medida
-- :bellhop_bell: [Squoosh](https://squoosh.app/) - Comprimidor de imagenes
-- :bellhop_bell: [CSS Code Quality](https://www.projectwallace.com/css-code-quality) - Calidad del codigo CSS
-- :bellhop_bell: [PageSpeed Insights](https://pagespeed.web.dev/) - Informacion de la velocidad de la pagina
-- :bellhop_bell: [Pingdom](https://tools.pingdom.com/) - Informacion de la velocidad de la pagina
+- :bellhop_bell: [Free for dev](https://free-for.dev/#/) - Recursos para desarrolladores.
+- :bellhop_bell: [Ray.so](https://www.ray.so/) - Crea imagenes bonitas de tu codigo.
+- :bellhop_bell: [Regex101](https://regex101.com/) - Expresiones regulares.
+- :bellhop_bell: [JSON Generator](https://www.jsongenerator.io/) - Genara JSON a la medida.
+- :bellhop_bell: [JSON Data AI](https://www.jsondataai.com/) - Genara JSON a la medida.
+- :bellhop_bell: [Retool](https://retool.com/api-generator) - Genara JSON a la medida.
+- :bellhop_bell: [Squoosh](https://squoosh.app/) - Comprimidor de imagenes.
+- :bellhop_bell: [CSS Code Quality](https://www.projectwallace.com/css-code-quality) - Calidad del codigo CSS.
+- :bellhop_bell: [PageSpeed Insights](https://pagespeed.web.dev/) - Informacion de velocidad sobre la pagina.
+- :bellhop_bell: [Pingdom](https://tools.pingdom.com/) - Informacion de velocidad sobre la pagina.
+- :bellhop_bell: [Web Check](https://web-check.xyz/) - Informacion de velocidad sobre la pagina.
 - :bellhop_bell: [ChartDB](https://app.chartdb.io/) - Creacion de diagrmas de bases de datos.
 - :bellhop_bell: [DB Diagram](https://dbdiagram.io/home/) - Creacion de diagrmas de bases de datos.
 - :bellhop_bell: [Real Favicon Generator .Net](https://realfavicongenerator.net/) - Creacion de iconos y favicon.
@@ -147,6 +148,8 @@ Herramientas para generar tu currículum profesional.
 - :man_student: [Freecodecamp](https://www.freecodecamp.org/espanol/learn/)
 - :man_student: [Cursos desafio latam](https://cursos.desafiolatam.com/collections)
 - :man_student: [Dev challenges](https://devchallenges.io/)
+- :man_student: [Cognitives Class](https://cognitiveclass.ai/)
+- :man_student: [VSCode Education](https://vscodeedu.com/courses)
 
 ### Games <a name="games"></a>
 
@@ -154,6 +157,7 @@ Aprende y mejora tus habilidades de desarrollo jugando.
 
 - :video_game: [Checkio](https://checkio.org/) - Juego para aprender Python y Typescript.
 - :video_game: [Codedex](https://www.codedex.io/) - Juego para aprender HTML, Python y Typescript.
+- :video_game: [CodeStrike](https://store.steampowered.com/app/3444170/CodeStrike__Python_Practice_Adventure_Game/) - Juego para aprender Python.
 - :video_game: [ZType](https://www.typing.com/es/student/game/ztype) - Juego de teclao.
 - :video_game: [ZType](https://learngitbranching.js.org/?locale=es_ES) - Juego para aprender Git.
 - :video_game: [Play with Docker](https://labs.play-with-docker.com/) - Juego para aprender DOCKER.
@@ -223,6 +227,11 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 ### Libros <a name="books"></a>
 
 - :closed_book: [Libros de programación gratis](https://github.com/midudev/libros-programacion-gratis)
+
+### Atajos
+
+>[!TIP]
+>https://github.com/AndresOrozcoDev/chat cmabiar `github` por `deepwiki` para obtener informacion del proyecto: https://deepwiki.com/AndresOrozcoDev/chat
 
 ## Util
 
