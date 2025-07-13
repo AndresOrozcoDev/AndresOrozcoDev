@@ -179,6 +179,7 @@ Extensiones útiles para el navegador Chrome.
 - :toolbox: [html.to.design]()
 - :toolbox: [Lighthouse]()
 - :toolbox: [GoFullPage]()
+- :toolbox: [Meta Explorer]()
 
 ### Extensiones VSCode <a name="vscode"></a>
 
