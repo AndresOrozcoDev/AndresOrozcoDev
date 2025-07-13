@@ -1,7 +1,9 @@
 # 💫 About Me:
-I’m a Software Developer with over three years of experience building modern, scalable web applications. My technical expertise spans front-end development (Angular, React, HTML, CSS), back-end technologies (Python, FastAPI, Express.js), and both relational and non-relational databases.
+I’m a Systems Engineer with a focus on software architecture and a Fullstack Developer with over three years of experience designing and implementing scalable web solutions.
 
-I thrive on solving complex technical challenges, optimizing performance, and developing products that make a real impact. I’m passionate about writing clean, maintainable code and collaborating with cross-functional teams under agile methodologies.
+I specialize in modern technologies such as Angular, React, FastAPI, and Express.js, and have strong proficiency in TypeScript and Python.
+
+I’m driven by solving complex challenges, building well-structured systems using agile methodologies, following best development practices, and exploring opportunities in AI-powered software.
 
 Based in Miami, Florida <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>, I’m authorized to work in the U.S. and open to remote or hybrid opportunities across the U.S. and Latin America <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13"/>.
 
