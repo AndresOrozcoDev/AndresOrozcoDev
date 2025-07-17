@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Welcome, I'm Andres Orozco 👋
+
+## 💫 About Me:
 I’m a Systems Engineer with a focus on software architecture and a Fullstack Developer with over three years of experience designing and implementing scalable web solutions.
 
 I specialize in modern technologies such as Angular, React, FastAPI, and Express.js, and have strong proficiency in TypeScript and Python.
@@ -9,7 +11,9 @@ Based in Miami, Florida <img src="https://cdn-icons-png.flaticon.com/512/197/197
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andres-orozco-dev/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AndresFelipeOrozcoJaramillo-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/ingcapadev/](https://www.linkedin.com/in/andresorozcodev/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:andres.orozco.dev@gmail.com)
+[![Email](https://img.shields.io/badge/andres.orozco.dev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andres.orozco.dev@gmail.com)
 
 
 ## 💻 Tech Stack:
