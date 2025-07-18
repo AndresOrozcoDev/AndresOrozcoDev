@@ -11,7 +11,8 @@ Based in Miami, Florida <img src="https://cdn-icons-png.flaticon.com/512/197/197
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andres-orozco-dev/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AndresFelipeOrozcoJaramillo-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/ingcapadev/](https://linkedin.com/in/https://www.linkedin.com/in/andresorozcodev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AndresFelipeOrozcoJaramillo-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)]
+(https://linkedin.com/in/https://www.linkedin.com/in/andresorozcodev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:andres.orozco.dev@gmail.com)
 [![Email](https://img.shields.io/badge/andres.orozco.dev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andres.orozco.dev@gmail.com)
 
