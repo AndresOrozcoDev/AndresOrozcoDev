@@ -9,9 +9,8 @@ I’m driven by solving complex challenges, building well-structured systems usi
 
 Based in Miami, Florida <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>, I’m authorized to work in the U.S. and open to remote or hybrid opportunities across the U.S. and Latin America <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13"/>.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andres-orozco-dev/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ingcapadev/)
+## 🌐 Socials: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AndresOrozcoDev-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andresorozcodev/)
 [![Email](https://img.shields.io/badge/andres.orozco.dev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andres.orozco.dev@gmail.com)
 
 
