@@ -44,6 +44,7 @@ Aplicaciones que mejoran tu desarrollo.
 - :detective: [UrbanVPN](https://www.urban-vpn.com/)
 - :detective: [Git](https://git-scm.com/downloads)
 - :detective: [NVM](https://github.com/nvm-sh/nvm)
+- :detective: [Ngrok](https://ngrok.com/)
 
 ### Ingles <a name="english"></a>
 
@@ -224,6 +225,7 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 - :hammer: [Interview Sidekick](https://interviewsidekick.com/) - Ayudante en entrevistas.
 - :hammer: [EzDubs](https://ezdubs.ai/google-meet-extension) - Traductor en vivo en reuniones por Google Meets.
 - :hammer: [Shadow Map](https://shadowmap.org/es/) - Vistas de sol y sombras.
+- :hammer: [OBS Studio](https://obsproject.com/download) - Grabacion de pantalla.
 
 ### Libros <a name="books"></a>
 
