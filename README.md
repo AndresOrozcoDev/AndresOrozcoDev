@@ -44,7 +44,7 @@ Based in Miami, Florida <img src="https://cdn-icons-png.flaticon.com/512/197/197
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresOrozcoDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresOrozcoDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cacheBuster=20250722)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AndresOrozcoDev&icon=0&color=0)](https://visitcount.itsvg.in)
