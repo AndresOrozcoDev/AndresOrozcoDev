@@ -105,6 +105,7 @@ Recursos visuales y herramientas para diseñadores.
 - :bellhop_bell: [JSON Data AI](https://www.jsondataai.com/) - Genara JSON a la medida.
 - :bellhop_bell: [Retool](https://retool.com/api-generator) - Genara JSON a la medida.
 - :bellhop_bell: [Mockaroo](https://mockaroo.com/) - Genara JSON a la medida.
+- :bellhop_bell: [JSON Crack](https://jsoncrack.com/editor) - Visualizador de archivos JSON.
 - :bellhop_bell: [Squoosh](https://squoosh.app/) - Comprimidor de imagenes.
 - :bellhop_bell: [CSS Code Quality](https://www.projectwallace.com/css-code-quality) - Calidad del codigo CSS.
 - :bellhop_bell: [PageSpeed Insights](https://pagespeed.web.dev/) - Informacion de velocidad sobre la pagina.
