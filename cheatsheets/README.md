@@ -120,6 +120,7 @@ Recursos visuales y herramientas para diseñadores.
 - :bellhop_bell: [CSS Grid Generator io](https://cssgridgenerator.io/) - Generador de CSS Grid.
 - :bellhop_bell: [SQLite Viewer](https://sqliteviewer.app/) - Visualizador de SQLite.
 - :bellhop_bell: [Good Firts Issue](https://goodfirstissue.dev/) - Errones de codigo.
+- :bellhop_bell: [W3 School - HTML Chartes](https://www.w3schools.com/charsets/default.asp) - Codigos de caracteres para HTML.
 
 ### Hosting <a name="hosting"></a> 
 
