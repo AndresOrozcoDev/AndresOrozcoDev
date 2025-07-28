@@ -58,6 +58,7 @@ Apliaciones o certificados sobre el idioma Ingles.
 - :loudspeaker: [Conversaciones](https://tandem.net/es)
 - :loudspeaker: [Curso ingles](https://curso-ingles.com/)
 - :loudspeaker: [BBC Learning English](https://www.bbc.co.uk/learningenglish)
+- :loudspeaker: [English Practice Test](https://englishpracticetest.net/)
 
 ### API's <a name="apis"></a>
 
@@ -118,6 +119,7 @@ Recursos visuales y herramientas para diseñadores.
 - :bellhop_bell: [Commandos](https://commandsapp.vercel.app/) - Documentacion de comandos.
 - :bellhop_bell: [CSS Grid Generator io](https://cssgridgenerator.io/) - Generador de CSS Grid.
 - :bellhop_bell: [SQLite Viewer](https://sqliteviewer.app/) - Visualizador de SQLite.
+- :bellhop_bell: [Good Firts Issue](https://goodfirstissue.dev/) - Errones de codigo.
 
 ### Hosting <a name="hosting"></a> 
 
@@ -229,6 +231,8 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 - :hammer: [EzDubs](https://ezdubs.ai/google-meet-extension) - Traductor en vivo en reuniones por Google Meets.
 - :hammer: [Shadow Map](https://shadowmap.org/es/) - Vistas de sol y sombras.
 - :hammer: [OBS Studio](https://obsproject.com/download) - Grabacion de pantalla.
+- :hammer: [NotebookLM AI](https://notebooklm.google/) - Cuaderno con AI para estudiar.
+- :hammer: [Renderforest](https://hix.ai/home) - Generacion de archivos con todas las AI's.
 
 ### Libros <a name="books"></a>
 
