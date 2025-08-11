@@ -45,6 +45,7 @@ Aplicaciones que mejoran tu desarrollo.
 - :detective: [UrbanVPN](https://www.urban-vpn.com/)
 - :detective: [Git](https://git-scm.com/downloads)
 - :detective: [NVM](https://github.com/nvm-sh/nvm)
+- :detective: [UV](https://github.com/astral-sh/uv)
 - :detective: [Ngrok](https://ngrok.com/)
 
 ### Ingles <a name="english"></a>
@@ -112,8 +113,10 @@ Recursos visuales y herramientas para diseñadores.
 - :bellhop_bell: [PageSpeed Insights](https://pagespeed.web.dev/) - Informacion de velocidad sobre la pagina.
 - :bellhop_bell: [Pingdom](https://tools.pingdom.com/) - Informacion de velocidad sobre la pagina.
 - :bellhop_bell: [Web Check](https://web-check.xyz/) - Informacion de velocidad sobre la pagina.
+- :bellhop_bell: [SEO Test](https://seotest.me/) - Informacion de velocidad sobre la pagina.
 - :bellhop_bell: [ChartDB](https://app.chartdb.io/) - Creacion de diagrmas de bases de datos.
 - :bellhop_bell: [DB Diagram](https://dbdiagram.io/home/) - Creacion de diagrmas de bases de datos.
+- :bellhop_bell: [DrawDB](https://www.drawdb.app/) - Creacion de diagrmas de bases de datos.
 - :bellhop_bell: [Real Favicon Generator .Net](https://realfavicongenerator.net/) - Creacion de iconos y favicon.
 - :bellhop_bell: [Errores](https://erroresapp.vercel.app/) - Documentacion de errores.
 - :bellhop_bell: [Commandos](https://commandsapp.vercel.app/) - Documentacion de comandos.
@@ -234,6 +237,8 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 - :hammer: [OBS Studio](https://obsproject.com/download) - Grabacion de pantalla.
 - :hammer: [NotebookLM AI](https://notebooklm.google/) - Cuaderno con AI para estudiar.
 - :hammer: [Renderforest](https://hix.ai/home) - Generacion de archivos con todas las AI's.
+- :hammer: [UnDraw](https://undraw.co/illustrations) - Recursos de ilustraciones.
+- :hammer: [unSplash](https://unsplash.com/es) - Recursos de imagenes.
 
 ### Libros <a name="books"></a>
 
