@@ -313,3 +313,9 @@ Algunos recursos útiles adicionales.
 > Comandos basicos de Docker.
 
 ![Arquitecturas de carpetas](./utils/docker_commands.jpg)
+
+### Extension de recursos para paginas web.
+
+> Extension de images para cargar a paginas web y sus ventajas, para mayor informacion de todo archivo multimedia visitar: [Formatos Multimedia](https://lenguajehtml.com/html/multimedia/formatos-multimedia/).
+
+![Extension de imagenes](./utils/images_extensions.jpg)
