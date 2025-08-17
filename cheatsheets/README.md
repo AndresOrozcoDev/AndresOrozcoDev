@@ -208,6 +208,8 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [CodeViz](https://marketplace.visualstudio.com/items?itemName=CodeViz.codeviz)
 - :keyboard: [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - :keyboard: [Biome.js](https://marketplace.visualstudio.com/items?itemName=biomejs.biome)
+- :keyboard: [FileTree Pro](https://marketplace.visualstudio.com/items?itemName=0xTanzim.filetree-pro)
+- :keyboard: [BEMify](https://marketplace.visualstudio.com/items?itemName=mario-mass.bemify)
 
 ### Github repositorios <a name="github"></a>
 
