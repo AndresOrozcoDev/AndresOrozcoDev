@@ -161,6 +161,7 @@ Herramientas para generar tu currículum profesional.
 - :man_student: [Dev challenges](https://devchallenges.io/)
 - :man_student: [Cognitives Class](https://cognitiveclass.ai/)
 - :man_student: [VSCode Education](https://vscodeedu.com/courses)
+- :man_student: [Leetcode](https://leetcode.com/)
 
 ### Games <a name="games"></a>
 
