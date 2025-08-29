@@ -260,10 +260,6 @@ Canales de YouTube con contenido educativo y tutoriales.
 - :closed_book: [Libros de programación gratis](https://github.com/midudev/libros-programacion-gratis)
 - :closed_book: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file)
 
-### Atajos
-
->[!TIP]
->https://github.com/AndresOrozcoDev/chat cmabiar `github` por `deepwiki` para obtener informacion del proyecto: https://deepwiki.com/AndresOrozcoDev/chat
 
 ## Util
 
