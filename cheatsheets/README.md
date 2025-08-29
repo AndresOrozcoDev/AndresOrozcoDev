@@ -1,31 +1,31 @@
 
 # :rocket: Recursos para Desarrolladores
 
-Este repositorio recopila herramientas, recursos y enlaces útiles para desarrolladores de software. Aquí encontrarás desde generadores de README hasta juegos educativos, pasando por extensiones útiles y ejemplos de código.
+Este repositorio recopila herramientas, aplicaciones, extensiones y enlaces útiles que facilitan el desarrollo de software. Aquí encontrarás tambien ayudas visuales para un facil entendimiento:
 
 ## Indice
 
-- :rocket: [Asistentes](#copilot)
-- :detective: [Aplicaciones](#apps)
-- :loudspeaker: [Ingles](#english)
-- :flying_saucer: [API's](#apis)
-- :page_facing_up: [README](#readme)
-- :art: [Diseño](#design)
-- :bellhop_bell: [Recursos](#resources)
-- :classical_building: [Hosting](#hosting)
-- :package: [Librerias](#packages)
-- :clipboard: [Curriculo](#curriculum)
-- :man_student: [Aprendizaje](#learning)
-- :video_game: [Juegos](#games)
-- :toolbox: [Extensiones](#chrome)
-- :keyboard: [Extensiones VSCode](#vscode)
-- :computer: [Repositorios Github](#github)
-- :movie_camera: [Canales Youtube](#youtube)
-- :hammer: [Herramientas](#tools)
-- :closed_book: [Libros](#books)
+- :rocket: [Asistentes de IA](#copilot)
+- :flying_saucer: [Generacion de API's](#apis)
+- :art: [Expande tus diseños](#design)
+- :classical_building: [Hosting de aplicaciones](#hosting)
+- :video_game: [Aprende jugando](#games)
+- :loudspeaker: [Mejora tu ingles](#english)
+- :man_student: [Mejora tus conocimientos](#learning)
+- :bellhop_bell: [Recursos utiles para el desarrollo](#resources)
+- :detective: [Aplicaciones utiles](#apps)
+- :package: [Librerias utiles](#packages)
+- :hammer: [Herramientas de interes](#tools)
+- :page_facing_up: [Complementos para README.md](#readme)
+- :clipboard: [Mejora tu curriculo](#curriculum)
+- :toolbox: [Extensiones utiles de Chrome](#chrome)
+- :keyboard: [Extensiones utiles de VSCode](#vscode)
+- :computer: [Repositorios utiles de Github](#github)
+- :movie_camera: [Canales utiles de Youtube](#youtube)
+- :closed_book: [Complementa con libros](#books)
 
 
-### Asistentes <a name="copilot"></a>
+### Asistentes de IA <a name="copilot"></a>
 
 Herramientas que mejoran la productividad de desarrollo con IA.
 
@@ -36,21 +36,54 @@ Herramientas que mejoran la productividad de desarrollo con IA.
 - :rocket: [You](https://you.com/)
 - :rocket: [Grok](https://grok.com/)
 
-### Aplicaciones <a name="apps"></a>
+### Generacion de API's <a name="apis"></a>
 
-Aplicaciones que mejoran tu desarrollo.
+Herramientas para facilitar el desarrollo con mocks de API´s.
 
-- :detective: [VSCode](https://code.visualstudio.com/)
-- :detective: [Postman](https://www.postman.com/)
-- :detective: [UrbanVPN](https://www.urban-vpn.com/)
-- :detective: [Git](https://git-scm.com/downloads)
-- :detective: [NVM](https://github.com/nvm-sh/nvm)
-- :detective: [UV](https://github.com/astral-sh/uv)
-- :detective: [Ngrok](https://ngrok.com/)
+- :flying_saucer: [Rapid API](https://rapidapi.com/hub) - API´s por categorias.
+- :flying_saucer: [Public API](https://publicapis.dev/) - API´s por categorias.
+- :flying_saucer: [Dummy JSON](https://dummyjson.com/) - API's mas comunes.
 
-### Ingles <a name="english"></a>
+### Expande tus diseños <a name="design"></a>
 
-Apliaciones o certificados sobre el idioma Ingles.
+Recursos visuales y herramientas de diseños para obtener creatividad.
+
+- :art: [v0 By Vercel](https://v0.dev/) - Generador de diseños a medida.
+- :art: [Toools.design](https://www.toools.design/) - Ayudas de diseños por categorias.
+- :art: [FreeSets](https://freesets.dev/) - Ayudas de diseños por categorias.
+- :art: [Tailwind CSS Color Generator](https://uicolors.app/create) - Generador de colores.
+- :art: [Coolors](https://coolors.co/) - Generador de colores.
+- :art: [Pattern Craft](https://patterncraft.fun/) - Generador de fondos.
+
+### Hosting de aplicaciones <a name="hosting"></a> 
+
+- :classical_building: [Vercel]() - Aplicaciones Frontend.
+- :classical_building: [Netlify]() - Aplicaciones Frontend.
+- :classical_building: [Render]() - Aplicaciones Backend Express y FastAPI.
+- :classical_building: [FastAPI Cloud](https://fastapicloud.com/) - Aplicaciones Backend FastAPI.
+- :classical_building: [Superbase](https://supabase.com/) - Bases de datos.
+- :classical_building: [Firebase]() - Bases de datos.
+- :classical_building: [Dokploy](https://dokploy.com/) - Bases de datos.
+- :classical_building: [Instagres](http://instagres.com/new) - Bases de datos.
+
+### Aprende jugando <a name="games"></a>
+
+Aprende y mejora tus habilidades de desarrollo jugando.
+
+- :video_game: [Checkio](https://checkio.org/) - Juego para aprender Python y Typescript.
+- :video_game: [Codedex](https://www.codedex.io/) - Juego para aprender HTML, Python y Typescript.
+- :video_game: [ZType](https://www.typing.com/es/student/game/ztype) - Juego de teclao.
+- :video_game: [LearnGitBranching](https://learngitbranching.js.org/?locale=es_ES) - Juego para aprender Git.
+- :video_game: [Play with Docker](https://labs.play-with-docker.com/) - Juego para aprender DOCKER.
+- :video_game: [Flexbox Froggy](https://flexboxfroggy.com/#es) - Juego para aprender CSS Flexbox.
+- :video_game: [CSS Dinner](https://flukeout.github.io/) - Juego para aprender los selectores con CSS.
+- :video_game: [Grid Garden](https://cssgridgarden.com/#es) - Juego para aprender CSS Grid.
+- :video_game: [Flexbox Defense](http://www.flexboxdefense.com/) - Juego para aprender CSS Flexbox.
+- :video_game: [Flexbox Zombies](https://mastery.games/post/flexboxzombies2/) - Juego para aprender CSS Flexbox.
+
+### Mejora tu ingles <a name="english"></a>
+
+Apliaciones o certificados para mejorar y validar tu Ingles.
 
 - :loudspeaker: [Certificación EF SET](https://www.efset.org/)
 - :loudspeaker: [Certificación A2](https://www.freecodecamp.org/espanol/learn/a2-english-for-developers/)
@@ -62,46 +95,34 @@ Apliaciones o certificados sobre el idioma Ingles.
 - :loudspeaker: [English Practice Test](https://englishpracticetest.net/)
 - :loudspeaker: [English Listening Lesson Library Online](https://elllo.org/)
 
-### API's <a name="apis"></a>
+### Mejora tus conocimientos <a name="learning"></a>
 
-Herramientas que mejoran la productividad de desarrollo con IA.
+Aplicaciones o sitios web para estudiar y aprender de programacion.
 
-- :flying_saucer: [Rapid API](https://rapidapi.com/hub)
-- :flying_saucer: [Public API](https://publicapis.dev/)
-- :flying_saucer: [Dummy JSON](https://dummyjson.com/)
+- :man_student: [Certiprof](https://free.certiprof.com/)
+- :man_student: [Github](https://examregistration.github.com/)
+- :man_student: [Freecodecamp](https://www.freecodecamp.org/espanol/learn/)
+- :man_student: [Cursos desafio latam](https://cursos.desafiolatam.com/collections)
+- :man_student: [Dev challenges](https://devchallenges.io/)
+- :man_student: [Cognitives Class](https://cognitiveclass.ai/)
+- :man_student: [VSCode Education](https://vscodeedu.com/courses)
+- :man_student: [Leetcode](https://leetcode.com/)
+- :man_student: [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
+- :man_student: [Freecodecamp Github](https://github.com/freeCodeCamp/freeCodeCamp)
 
-### README <a name="readme"></a>
+### Recursos utiles para el desarrollo <a name="resources"></a> 
 
-Generadores para crear tu README de manera rápida y profesional.
-
-- :page_facing_up: [GPRM](https://gprm.itsvg.in/) - Mejor generador de perfil en Github.
-- :page_facing_up: [GH Profile Readme](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Mejor generador de perfil en Github.
-- :page_facing_up: [Readme so](https://readme.so/es) - La forma más fácil de crear un README
-- :page_facing_up: [Iconos](https://github.com/ikatyang/emoji-cheat-sheet) - Hoja de trucos para iconos
-- :page_facing_up: [Badges](https://github.com/inttter/md-badges) - Hoja de trucos para insignias
-- :page_facing_up: [Docs](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Documentacion oficial de README
-
-### Diseño <a name="design"></a>
-
-Recursos visuales y herramientas para diseñadores.
-
-- :art: [v0 By Vercel](https://v0.dev/) - Generador de diseños
-- :art: [Toools.design](https://www.toools.design/) - Ayudas para recursos
-- :art: [Tailwind CSS Color Generator](https://uicolors.app/create) - Generador de colores
-- :art: [Coolors](https://coolors.co/) - El generador de paletas de colores superrápido
-
-### Recursos <a name="resources"></a> 
+Aplicaciones o recursos que facilitan el desarrollo de codigo.
 
 - :bellhop_bell: [font Awesome](https://fontawesome.com/) - Libreria de iconos
 - :bellhop_bell: [Lucide Icons](https://lucide.dev/icons/) - Libreria de iconos
 - :bellhop_bell: [Google Fonts](https://fonts.google.com/) - Fuentes de Google
 - :bellhop_bell: [Croll Bar](https://scrollbar.app/) - Estilos para el scroll.
-- :bellhop_bell: [Shots](https://shots.so/) - Creacion de mockups.
 - :bellhop_bell: [Python Tutor](https://pythontutor.com/) - Ejecutador de codigo python y javascript.
-- :bellhop_bell: [Postspark](https://postspark.app/home) - Creacion de mockups.
 - :bellhop_bell: [Lenguajecss](https://lenguajecss.com/css/funciones-css/referencia/) - Documentacion de funciones CSS.
 - :bellhop_bell: [Git Ignore](https://www.toptal.com/developers/gitignore) - Genera .gitignore.
 - :bellhop_bell: [Free for dev](https://free-for.dev/#/) - Recursos para desarrolladores.
+- :bellhop_bell: [Awesome](https://github.com/sindresorhus/awesome) - Recursos para desarrolladores.
 - :bellhop_bell: [Ray.so](https://www.ray.so/) - Crea imagenes bonitas de tu codigo.
 - :bellhop_bell: [Regex101](https://regex101.com/) - Expresiones regulares.
 - :bellhop_bell: [JSON Generator](https://www.jsongenerator.io/) - Genara JSON a la medida.
@@ -118,6 +139,7 @@ Recursos visuales y herramientas para diseñadores.
 - :bellhop_bell: [ChartDB](https://app.chartdb.io/) - Creacion de diagrmas de bases de datos.
 - :bellhop_bell: [DB Diagram](https://dbdiagram.io/home/) - Creacion de diagrmas de bases de datos.
 - :bellhop_bell: [DrawDB](https://www.drawdb.app/) - Creacion de diagrmas de bases de datos.
+- :bellhop_bell: [Rapid Charts](https://www.rapidcharts.ai/) - Creacion de diagrmas o flujos.
 - :bellhop_bell: [Real Favicon Generator .Net](https://realfavicongenerator.net/) - Creacion de iconos y favicon.
 - :bellhop_bell: [Errores](https://erroresapp.vercel.app/) - Documentacion de errores.
 - :bellhop_bell: [Commandos](https://commandsapp.vercel.app/) - Documentacion de comandos.
@@ -125,23 +147,55 @@ Recursos visuales y herramientas para diseñadores.
 - :bellhop_bell: [SQLite Viewer](https://sqliteviewer.app/) - Visualizador de SQLite.
 - :bellhop_bell: [Good Firts Issue](https://goodfirstissue.dev/) - Errones de codigo.
 - :bellhop_bell: [W3 School - HTML Chartes](https://www.w3schools.com/charsets/default.asp) - Codigos de caracteres para HTML.
+- :bellhop_bell: [Deep Wiki](https://deepwiki.org/) - Documentacion de repositorios Github
 
-### Hosting <a name="hosting"></a> 
+### Aplicaciones utiles <a name="apps"></a>
 
-- :classical_building: [Vercel]() - Aplicaciones Frontend.
-- :classical_building: [Netlify]() - Aplicaciones Frontend.
-- :classical_building: [Render]() - Aplicaciones Backend Express y FastAPI.
-- :classical_building: [FastAPI Cloud](https://fastapicloud.com/) - Aplicaciones Backend FastAPI.
-- :classical_building: [Superbase](https://supabase.com/) - Bases de datos.
-- :classical_building: [Firebase]() - Bases de datos.
-- :classical_building: [Dokploy](https://dokploy.com/) - Bases de datos.
-- :classical_building: [Instagres](http://instagres.com/new) - Bases de datos.
-  
-### Librerias <a name="packages"></a> 
+Aplicaciones para desarrollar software.
+
+- :detective: [VSCode](https://code.visualstudio.com/)
+- :detective: [Postman](https://www.postman.com/)
+- :detective: [UrbanVPN](https://www.urban-vpn.com/)
+- :detective: [Git](https://git-scm.com/downloads)
+- :detective: [NVM](https://github.com/nvm-sh/nvm)
+- :detective: [UV](https://github.com/astral-sh/uv)
+- :detective: [Ngrok](https://ngrok.com/)
+
+### Librerias utiles <a name="packages"></a> 
+
+Librerias NPM de gran interes o utiles.
 
 - :package: [npkill](https://www.npmjs.com/package/npkill) - Libreria para eliminar paquetes npm sin uso.
 
-### Curriculo <a name="curriculum"></a>
+### Herramientas de interes <a name="tools"></a>
+
+Herramientas adicionales para mejorar tu flujo de trabajo.
+
+- :hammer: [Keyboard Gif](https://keyboardapp-brown.vercel.app/) - Creacion Gif con el teclado.
+- :hammer: [Google Earth Studio](https://www.google.com/earth/studio/) - Creacion de videos sobre lugares.
+- :hammer: [Mult.dev](https://mult.dev/es) - Creacion de videos sobre viajes.
+- :hammer: [Interview Sidekick](https://interviewsidekick.com/) - Ayudante en entrevistas.
+- :hammer: [EzDubs](https://ezdubs.ai/google-meet-extension) - Traductor en vivo en reuniones por Google Meets.
+- :hammer: [Shadow Map](https://shadowmap.org/es/) - Vistas de sol y sombras.
+- :hammer: [OBS Studio](https://obsproject.com/download) - Grabacion de pantalla.
+- :hammer: [NotebookLM AI](https://notebooklm.google/) - Cuaderno con AI para estudiar.
+- :hammer: [Renderforest](https://hix.ai/home) - Generacion de archivos con todas las AI's.
+- :hammer: [UnDraw](https://undraw.co/illustrations) - Recursos de ilustraciones.
+- :hammer: [unSplash](https://unsplash.com/es) - Recursos de imagenes.
+- :hammer: [Shots](https://shots.so/) - Creacion de imagenes publicitarias.
+
+### Complementos para README.md <a name="readme"></a>
+
+Generadores para crear tu README de manera rápida y profesional.
+
+- :page_facing_up: [GPRM](https://gprm.itsvg.in/) - Mejor generador de perfil en Github.
+- :page_facing_up: [GH Profile Readme](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Mejor generador de perfil en Github.
+- :page_facing_up: [Readme so](https://readme.so/es) - La forma más fácil de crear un README
+- :page_facing_up: [Iconos](https://github.com/ikatyang/emoji-cheat-sheet) - Hoja de trucos para iconos
+- :page_facing_up: [Badges](https://github.com/inttter/md-badges) - Hoja de trucos para insignias
+- :page_facing_up: [Docs](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Documentacion oficial de READM
+
+### Mejora tu curriculo <a name="curriculum"></a>
 
 Herramientas para generar tu currículum profesional.
 
@@ -151,36 +205,7 @@ Herramientas para generar tu currículum profesional.
 - :clipboard: [Jobscan](https://www.jobscan.co/) - Verificador de resumen.
 - :clipboard: [Resume Worded](https://resumeworded.com/index.php) - Verificador de resumen.
 
-### Aprendizaje <a name="learning"></a>
-
-- :man_student: [Certiprof](https://free.certiprof.com/)
-- :man_student: [Codedex](https://www.codedex.io/)
-- :man_student: [Github](https://examregistration.github.com/)
-- :man_student: [Freecodecamp](https://www.freecodecamp.org/espanol/learn/)
-- :man_student: [Cursos desafio latam](https://cursos.desafiolatam.com/collections)
-- :man_student: [Dev challenges](https://devchallenges.io/)
-- :man_student: [Cognitives Class](https://cognitiveclass.ai/)
-- :man_student: [VSCode Education](https://vscodeedu.com/courses)
-- :man_student: [Leetcode](https://leetcode.com/)
-- :man_student: [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
-
-### Games <a name="games"></a>
-
-Aprende y mejora tus habilidades de desarrollo jugando.
-
-- :video_game: [Checkio](https://checkio.org/) - Juego para aprender Python y Typescript.
-- :video_game: [Codedex](https://www.codedex.io/) - Juego para aprender HTML, Python y Typescript.
-- :video_game: [CodeStrike](https://store.steampowered.com/app/3444170/CodeStrike__Python_Practice_Adventure_Game/) - Juego para aprender Python.
-- :video_game: [ZType](https://www.typing.com/es/student/game/ztype) - Juego de teclao.
-- :video_game: [ZType](https://learngitbranching.js.org/?locale=es_ES) - Juego para aprender Git.
-- :video_game: [Play with Docker](https://labs.play-with-docker.com/) - Juego para aprender DOCKER.
-- :video_game: [Flexbox Froggy](https://flexboxfroggy.com/#es) - Juego para aprender CSS Flexbox.
-- :video_game: [CSS Dinner](https://flukeout.github.io/) - Juego para aprender los selectores con CSS.
-- :video_game: [Grid Garden](https://cssgridgarden.com/#es) - Juego para aprender CSS Grid.
-- :video_game: [Flexbox Defense](http://www.flexboxdefense.com/) - Juego para aprender CSS Flexbox.
-- :video_game: [Flexbox Zombies](https://mastery.games/post/flexboxzombies2/) - Juego para aprender CSS Flexbox.
-
-### Extensiones <a name="chrome"></a>
+### Extensiones utiles de Chrome <a name="chrome"></a>
 
 Extensiones útiles para el navegador Chrome.
 
@@ -194,7 +219,7 @@ Extensiones útiles para el navegador Chrome.
 - :toolbox: [GoFullPage]()
 - :toolbox: [Meta Explorer]()
 
-### Extensiones VSCode <a name="vscode"></a>
+### Extensiones utiles de VSCode <a name="vscode"></a>
 
 Extensiones esenciales para Visual Studio Code.
 
@@ -212,8 +237,9 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [Biome.js](https://marketplace.visualstudio.com/items?itemName=biomejs.biome)
 - :keyboard: [FileTree Pro](https://marketplace.visualstudio.com/items?itemName=0xTanzim.filetree-pro)
 - :keyboard: [BEMify](https://marketplace.visualstudio.com/items?itemName=mario-mass.bemify)
+- :keyboard: [ES7-React-Js-Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
-### Github repositorios <a name="github"></a>
+### Repositorios utiles de Github <a name="github"></a>
 
 Repositorios útiles para desarrolladores de todos los niveles.
 
@@ -223,31 +249,16 @@ Repositorios útiles para desarrolladores de todos los niveles.
 - :computer: [Bezkoder](https://github.com/bezkoder)
 - :computer: [mtdvio (every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know)
 
-### Youtube canales <a name="youtube"></a>
+### Canales utiles de Youtube <a name="youtube"></a>
 
 Canales de YouTube con contenido educativo y tutoriales.
 
 - :movie_camera: [OpenBootcamp](https://www.youtube.com/@OpenBootcamp/playlists)
 
-### Herramientas <a name="tools"></a>
-
-Herramientas adicionales para mejorar tu flujo de trabajo.
-
-- :hammer: [Keyboard Gif](https://keyboardapp-brown.vercel.app/) - Creacion Gif con el teclado.
-- :hammer: [Google Earth Studio](https://www.google.com/earth/studio/) - Creacion de videos sobre lugares.
-- :hammer: [Mult.dev](https://mult.dev/es) - Creacion de videos sobre viajes.
-- :hammer: [Interview Sidekick](https://interviewsidekick.com/) - Ayudante en entrevistas.
-- :hammer: [EzDubs](https://ezdubs.ai/google-meet-extension) - Traductor en vivo en reuniones por Google Meets.
-- :hammer: [Shadow Map](https://shadowmap.org/es/) - Vistas de sol y sombras.
-- :hammer: [OBS Studio](https://obsproject.com/download) - Grabacion de pantalla.
-- :hammer: [NotebookLM AI](https://notebooklm.google/) - Cuaderno con AI para estudiar.
-- :hammer: [Renderforest](https://hix.ai/home) - Generacion de archivos con todas las AI's.
-- :hammer: [UnDraw](https://undraw.co/illustrations) - Recursos de ilustraciones.
-- :hammer: [unSplash](https://unsplash.com/es) - Recursos de imagenes.
-
-### Libros <a name="books"></a>
+### Complementa con libros <a name="books"></a>
 
 - :closed_book: [Libros de programación gratis](https://github.com/midudev/libros-programacion-gratis)
+- :closed_book: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file)
 
 ### Atajos
 
