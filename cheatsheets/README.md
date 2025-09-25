@@ -53,6 +53,7 @@ Recursos visuales y herramientas de diseños para obtener creatividad.
 - :art: [FreeSets](https://freesets.dev/) - Ayudas de diseños por categorias.
 - :art: [Tailwind CSS Color Generator](https://uicolors.app/create) - Generador de colores.
 - :art: [Coolors](https://coolors.co/) - Generador de colores.
+- :art: [Kigen](https://kigen.design/color) - Generador de colores.
 - :art: [Pattern Craft](https://patterncraft.fun/) - Generador de fondos.
 
 ### Hosting de aplicaciones <a name="hosting"></a> 
