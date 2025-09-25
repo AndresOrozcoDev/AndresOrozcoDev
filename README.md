@@ -1,13 +1,13 @@
 # Welcome, I'm Andres Orozco 👋
 
 ## 💫 About Me:
-I’m a Systems Engineer with a focus on software architecture and a Fullstack Developer with over three years of experience designing and implementing scalable web solutions.
+I’m a Systems Engineer and Full Stack Developer with 3+ years of experience building scalable, high-performance web applications. My expertise spans Front End optimization using modular architectures in React and Angular, and Back End efficiency through asynchronous services with FastAPI and Express.js.
 
-I specialize in modern technologies such as Angular, React, FastAPI, and Express.js, and have strong proficiency in TypeScript and Python.
+🔧 Skilled in TypeScript, Python, SQL/NoSQL databases, Docker, and CI/CD pipelines, I deliver robust, maintainable, and production-ready solutions within agile (SCRUM) environments.
 
-I’m driven by solving complex challenges, building well-structured systems using agile methodologies, following best development practices, and exploring opportunities in AI-powered software.
+💡 I’m passionate about software architecture, clean code, and exploring AI-powered applications, always aiming to improve performance, reliability, and user experience. Some of my achievements include:
 
-Based in Miami, Florida <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>, I’m authorized to work in the U.S. and open to remote or hybrid opportunities across the U.S. and Latin America <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13"/>.
+🌎 Based in Miami, Florida <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>, I’m authorized to work in the U.S. (no sponsorship required) and open to remote or hybrid opportunities across the U.S. and LATAM.
 
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@AndresOrozcoDev-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andresorozcodev/)

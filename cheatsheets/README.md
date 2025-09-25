@@ -53,6 +53,7 @@ Recursos visuales y herramientas de diseños para obtener creatividad.
 - :art: [FreeSets](https://freesets.dev/) - Ayudas de diseños por categorias.
 - :art: [Tailwind CSS Color Generator](https://uicolors.app/create) - Generador de colores.
 - :art: [Coolors](https://coolors.co/) - Generador de colores.
+- :art: [Kigen](https://kigen.design/color) - Generador de colores.
 - :art: [Pattern Craft](https://patterncraft.fun/) - Generador de fondos.
 
 ### Hosting de aplicaciones <a name="hosting"></a> 
@@ -63,6 +64,8 @@ Recursos visuales y herramientas de diseños para obtener creatividad.
 - :classical_building: [FastAPI Cloud](https://fastapicloud.com/) - Aplicaciones Backend FastAPI.
 - :classical_building: [Superbase](https://supabase.com/) - Bases de datos.
 - :classical_building: [Firebase]() - Bases de datos.
+- :classical_building: [Neon](https://neon.com/) - Bases de datos Postgrest.
+- :classical_building: [MongoDB Atlas](https://account.mongodb.com/account/login?nds=true) - Bases de datos Mongo.
 - :classical_building: [Dokploy](https://dokploy.com/) - Bases de datos.
 - :classical_building: [Instagres](http://instagres.com/new) - Bases de datos.
 
