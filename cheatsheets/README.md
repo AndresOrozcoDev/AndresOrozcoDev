@@ -112,6 +112,7 @@ Aplicaciones o sitios web para estudiar y aprender de programacion.
 - :man_student: [Leetcode](https://leetcode.com/)
 - :man_student: [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
 - :man_student: [Freecodecamp Github](https://github.com/freeCodeCamp/freeCodeCamp)
+- :man_student: [OverAPIb](https://overapi.com/)
 
 ### Recursos utiles para el desarrollo <a name="resources"></a> 
 
