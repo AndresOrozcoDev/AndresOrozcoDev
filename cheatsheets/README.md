@@ -243,6 +243,8 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [FileTree Pro](https://marketplace.visualstudio.com/items?itemName=0xTanzim.filetree-pro)
 - :keyboard: [BEMify](https://marketplace.visualstudio.com/items?itemName=mario-mass.bemify)
 - :keyboard: [ES7-React-Js-Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- :keyboard: [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint&ssr=false#overview)
+- :keyboard: [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
 ### Repositorios utiles de Github <a name="github"></a>
 
