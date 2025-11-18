@@ -258,6 +258,8 @@ Repositorios útiles para desarrolladores de todos los niveles.
 - :computer: [mtdvio (every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know)
 - :computer: [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 - :computer: [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+- :computer: [web-skills](https://github.com/andreasbm/web-skills)
+- :computer: [backend-cheats](https://github.com/cheatsnake/backend-cheats)
 
 ### Canales utiles de Youtube <a name="youtube"></a>
 
