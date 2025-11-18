@@ -256,6 +256,8 @@ Repositorios útiles para desarrolladores de todos los niveles.
 - :computer: [Frontend Joe](https://github.com/frontend-joe)
 - :computer: [Bezkoder](https://github.com/bezkoder)
 - :computer: [mtdvio (every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know)
+- :computer: [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+- :computer: [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 
 ### Canales utiles de Youtube <a name="youtube"></a>
 
