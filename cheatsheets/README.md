@@ -121,6 +121,7 @@ Aplicaciones o recursos que facilitan el desarrollo de codigo.
 
 - :bellhop_bell: [font Awesome](https://fontawesome.com/) - Libreria de iconos
 - :bellhop_bell: [Lucide Icons](https://lucide.dev/icons/) - Libreria de iconos
+- :bellhop_bell: [All SVG Icons](https://allsvgicons.com/) - Pagina de iconos
 - :bellhop_bell: [Google Fonts](https://fonts.google.com/) - Fuentes de Google
 - :bellhop_bell: [Croll Bar](https://scrollbar.app/) - Estilos para el scroll.
 - :bellhop_bell: [Python Tutor](https://pythontutor.com/) - Ejecutador de codigo python y javascript.
