@@ -274,6 +274,7 @@ Canales de YouTube con contenido educativo y tutoriales.
 
 - :closed_book: [Libros de programación gratis](https://github.com/midudev/libros-programacion-gratis)
 - :closed_book: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file)
+- :closed_book: [Books](https://github.com/nguyentan2808/books/tree/master)
 
 
 ## Util
