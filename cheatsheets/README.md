@@ -50,6 +50,7 @@ Recursos visuales y herramientas de diseños para obtener creatividad.
 
 - :art: [v0 By Vercel](https://v0.dev/) - Generador de diseños a medida.
 - :art: [Stitch With Google](https://stitch.withgoogle.com/?pli=1) - Generador de diseños a medida.
+- :art: [Readdy.ai](https://readdy.ai/) - Generador de diseños a medida.
 - :art: [Toools.design](https://www.toools.design/) - Ayudas de diseños por categorias.
 - :art: [FreeSets](https://freesets.dev/) - Ayudas de diseños por categorias.
 - :art: [Tailwind CSS Color Generator](https://uicolors.app/create) - Generador de colores.
