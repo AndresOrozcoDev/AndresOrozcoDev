@@ -197,6 +197,7 @@ Generadores para crear tu README de manera rápida y profesional.
 
 - :page_facing_up: [GPRM](https://gprm.itsvg.in/) - Mejor generador de perfil en Github.
 - :page_facing_up: [GH Profile Readme](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Mejor generador de perfil en Github.
+- :page_facing_up: [Profile Readme Generator](https://profile-readme-generator.com/es) - Mejor generador de perfil en Github.
 - :page_facing_up: [Readme so](https://readme.so/es) - La forma más fácil de crear un README
 - :page_facing_up: [Iconos](https://github.com/ikatyang/emoji-cheat-sheet) - Hoja de trucos para iconos
 - :page_facing_up: [Badges](https://github.com/inttter/md-badges) - Hoja de trucos para insignias
