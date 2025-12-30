@@ -66,11 +66,3 @@ I’m a Systems Engineer and Full Stack Developer with 3+ years of experience bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-
-# 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresOrozcoDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cacheBuster=20250722)
-
----
-[![](https://visitcount.itsvg.in/api?id=AndresOrozcoDev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
