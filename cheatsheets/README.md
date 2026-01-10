@@ -348,6 +348,12 @@ Algunos recursos útiles adicionales.
 
 ![Arquitecturas de carpetas](./utils/docker_commands.jpg)
 
+### Integracion continua y Despliegue continuo
+
+> Proceso o etapas de CI/CD.
+
+![Integracion continua y Despliegue continuo](./utils/CI-CD.gif)
+
 ### Extension de recursos para paginas web.
 
 > Extension de images para cargar a paginas web y sus ventajas, para mayor informacion de todo archivo multimedia visitar: [Formatos Multimedia](https://lenguajehtml.com/html/multimedia/formatos-multimedia/).
