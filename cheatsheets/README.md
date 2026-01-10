@@ -318,6 +318,12 @@ Algunos recursos útiles adicionales.
 
 ![Prefijos Git](./utils/git_prefijos.jpeg)
 
+### Etiquetas para el Head en HTML
+
+> Etiquetas minimas para ayudar en el SEO de una pagina HTML.
+
+![Etiqutes HTML para el Head](./utils/head_html.jpeg)
+
 ### Arquitecturas de comunicación entre servicios o aplicaciones.
 
 > Protocolos o métodos que se usan para que los componentes de la aplicación (o aplicaciones externas) se comuniquen entre sí.
