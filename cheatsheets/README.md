@@ -169,6 +169,7 @@ Aplicaciones para desarrollar software.
 - :detective: [NVM](https://github.com/nvm-sh/nvm)
 - :detective: [UV](https://github.com/astral-sh/uv)
 - :detective: [Ngrok](https://ngrok.com/)
+- :detective: [DbGate](https://github.com/dbgate/dbgate)
 
 ### Librerias utiles <a name="packages"></a> 
 
