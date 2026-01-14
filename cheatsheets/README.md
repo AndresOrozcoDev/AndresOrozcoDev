@@ -85,6 +85,8 @@ Aprende y mejora tus habilidades de desarrollo jugando.
 - :video_game: [Grid Garden](https://cssgridgarden.com/#es) - Juego para aprender CSS Grid.
 - :video_game: [Flexbox Defense](http://www.flexboxdefense.com/) - Juego para aprender CSS Flexbox.
 - :video_game: [Flexbox Zombies](https://mastery.games/post/flexboxzombies2/) - Juego para aprender CSS Flexbox.
+- :video_game: [The farmer was replaced](https://thefarmerwasreplaced.com/) - Juego para aprender Python.
+- :video_game: [Code pip](https://codepip.com/games/) - Juego para aprender estilos CSS (Flex, Grid y Tailwind).
 
 ### Mejora tu ingles <a name="english"></a>
 
