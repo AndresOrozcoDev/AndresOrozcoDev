@@ -63,13 +63,18 @@ Recursos visuales y herramientas de diseños para obtener creatividad.
 - :classical_building: [Vercel]() - Aplicaciones Frontend.
 - :classical_building: [Netlify]() - Aplicaciones Frontend.
 - :classical_building: [Render]() - Aplicaciones Backend Express y FastAPI.
-- :classical_building: [FastAPI Cloud](https://fastapicloud.com/) - Aplicaciones Backend FastAPI.
+- :classical_building: [FastAPI Cloud](https://dashboard.fastapicloud.com/login?redirect=%2F) - Aplicaciones Backend FastAPI.
 - :classical_building: [Superbase](https://supabase.com/) - Bases de datos.
 - :classical_building: [Firebase]() - Bases de datos.
-- :classical_building: [Neon](https://neon.com/) - Bases de datos Postgrest.
+- :classical_building: [Neon](https://neon.com/) - Bases de datos PostgreSQL.
+- :classical_building: [Xata](https://lite.xata.io/) - Bases de datos PostgreSQL.
+- :classical_building: [Cockrachlabs](https://www.cockroachlabs.com/) - Bases de datos SQL.
 - :classical_building: [MongoDB Atlas](https://account.mongodb.com/account/login?nds=true) - Bases de datos Mongo.
+- :classical_building: [Turso](https://turso.tech/) - Bases de datos SQLite.
 - :classical_building: [Dokploy](https://dokploy.com/) - Bases de datos.
-- :classical_building: [Instagres](http://instagres.com/new) - Bases de datos.
+- :classical_building: [Zeabur](https://zeabur.com/es-ES/) - Cualquier tipo de aplicacion.
+- :classical_building: [Koyeb](https://www.koyeb.com/) - Cualquier tipo de aplicacion.
+- :classical_building: [Northflank](https://northflank.com/) - Aplicaciones backend (2 servicios gratuitos).
 
 ### Aprende jugando <a name="games"></a>
 
