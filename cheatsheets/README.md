@@ -292,6 +292,7 @@ Canales de YouTube con contenido educativo y tutoriales.
 >- **Código limpio** - `Robert C. Martin` (Reglas y principios para escribir código legible y fácil de mantener).
 >- **Patrones de diseño** - `Erich Gamma et al` (Diccionario de soluciones probadas para problemas recurrentes de arquitectura).
 >- **Refactorización** - `Martin Fowler` (Método práctico para mejorar el diseño de un proyecto vivo, paso a paso).
+>- **Arquitectura limpia** - `Robert C. Martin` ().
 >
 >**Documentos de interes**
 >
