@@ -222,6 +222,7 @@ Herramientas para generar tu currículum profesional.
 - :clipboard: [AI Apply](https://aiapply.co/) - Creacion de resumen.
 - :clipboard: [Jobscan](https://www.jobscan.co/) - Verificador de resumen.
 - :clipboard: [Resume Worded](https://resumeworded.com/index.php) - Verificador de resumen.
+- :clipboard: [Genera CV](https://www.generacv.cl/) - Generecion de CV.
 
 ### Extensiones utiles de Chrome <a name="chrome"></a>
 
