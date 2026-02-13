@@ -9,11 +9,6 @@ I’m a Systems Engineer and Full Stack Developer with 3+ years of experience bu
 
 🌎 Based in Miami, Florida <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/>, I’m authorized to work in the U.S. (no sponsorship required) and open to remote or hybrid opportunities across the U.S. and LATAM.
 
-## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AndresOrozcoDev-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andresorozcodev/)
-[![Email](https://img.shields.io/badge/andres.orozco.dev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andres.orozco.dev@gmail.com)
-
-
 ## 💻 Tech Stack:
 
 #### Programming languages
@@ -66,3 +61,6 @@ I’m a Systems Engineer and Full Stack Developer with 3+ years of experience bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
+## 🌐 Socials: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AndresOrozcoDev-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andresorozcodev/)
+[![Email](https://img.shields.io/badge/andres.orozco.dev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andres.orozco.dev@gmail.com)
