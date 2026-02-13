@@ -127,7 +127,7 @@ Aplicaciones o sitios web para estudiar y aprender de programacion.
 
 Aplicaciones o recursos que facilitan el desarrollo de codigo.
 
-- :bellhop_bell: [Public Apis](https://publicapis.dev/) - LAPI's gratuitas
+- :bellhop_bell: [Public Apis](https://publicapis.dev/) - API's gratuitas
 - :bellhop_bell: [font Awesome](https://fontawesome.com/) - Libreria de iconos
 - :bellhop_bell: [Lucide Icons](https://lucide.dev/icons/) - Libreria de iconos
 - :bellhop_bell: [All SVG Icons](https://allsvgicons.com/) - Pagina de iconos
@@ -164,6 +164,7 @@ Aplicaciones o recursos que facilitan el desarrollo de codigo.
 - :bellhop_bell: [W3 School - HTML Chartes](https://www.w3schools.com/charsets/default.asp) - Codigos de caracteres para HTML.
 - :bellhop_bell: [Deep Wiki](https://deepwiki.org/) - Documentacion de repositorios Github
 - :bellhop_bell: [CodeSandbox](https://codesandbox.io/templates) - Editor online para proyectos
+- :bellhop_bell: [Caninclude](https://caninclude.onrender.com/) - Validador de HTML.
 
 ### Aplicaciones utiles <a name="apps"></a>
 
