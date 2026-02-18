@@ -156,6 +156,8 @@ Aplicaciones o recursos que facilitan el desarrollo de codigo.
 - :bellhop_bell: [DB Diagram](https://dbdiagram.io/home/) - Creacion de diagrmas de bases de datos.
 - :bellhop_bell: [DrawDB](https://www.drawdb.app/) - Creacion de diagrmas de bases de datos.
 - :bellhop_bell: [Rapid Charts](https://www.rapidcharts.ai/) - Creacion de diagrmas o flujos.
+- :bellhop_bell: [Brainboard](https://www.brainboard.co/) - Creacion de diagrmas o flujos.
+- :bellhop_bell: [FossFLOW](https://stan-smith.github.io/FossFLOW/) - Creacion de diagrmas o flujos.
 - :bellhop_bell: [Real Favicon Generator .Net](https://realfavicongenerator.net/) - Creacion de iconos y favicon.
 - :bellhop_bell: [Errores](https://erroresapp.vercel.app/) - Documentacion de errores.
 - :bellhop_bell: [Commandos](https://commandsapp.vercel.app/) - Documentacion de comandos.
