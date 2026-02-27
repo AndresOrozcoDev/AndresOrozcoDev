@@ -279,6 +279,8 @@ Repositorios útiles para desarrolladores de todos los niveles.
 - :computer: [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
 - :computer: [web-skills](https://github.com/andreasbm/web-skills)
 - :computer: [backend-cheats](https://github.com/cheatsnake/backend-cheats)
+- :computer: [AGutierrezR](https://github.com/AGutierrezR)
+- :computer: [holasoymalva](https://github.com/holasoymalva)
 
 ### Canales utiles de Youtube <a name="youtube"></a>
 
