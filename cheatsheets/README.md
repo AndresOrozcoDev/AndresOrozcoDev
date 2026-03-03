@@ -196,15 +196,13 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 - :hammer: [Keyboard Gif](https://keyboardapp-brown.vercel.app/) - Creacion Gif con el teclado.
 - :hammer: [Google Earth Studio](https://www.google.com/earth/studio/) - Creacion de videos sobre lugares.
 - :hammer: [Mult.dev](https://mult.dev/es) - Creacion de videos sobre viajes.
-- :hammer: [Interview Sidekick](https://interviewsidekick.com/) - Ayudante en entrevistas.
-- :hammer: [EzDubs](https://ezdubs.ai/google-meet-extension) - Traductor en vivo en reuniones por Google Meets.
 - :hammer: [Shadow Map](https://shadowmap.org/es/) - Vistas de sol y sombras.
 - :hammer: [OBS Studio](https://obsproject.com/download) - Grabacion de pantalla.
-- :hammer: [NotebookLM AI](https://notebooklm.google/) - Cuaderno con AI para estudiar.
 - :hammer: [Renderforest](https://hix.ai/home) - Generacion de archivos con todas las AI's.
 - :hammer: [UnDraw](https://undraw.co/illustrations) - Recursos de ilustraciones.
 - :hammer: [unSplash](https://unsplash.com/es) - Recursos de imagenes.
-- :hammer: [Shots](https://shots.so/) - Creacion de imagenes publicitarias.
+- :hammer: [Shots](https://shots.so/) - Creacion de imagenes publicitarias con fondos.
+- :hammer: [Rising Stars](https://risingstars.js.org/2025/en) - Tecnologias de JS en tendencias.
 
 ### Complementos para README.md <a name="readme"></a>
 
