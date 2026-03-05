@@ -139,6 +139,7 @@ Aplicaciones o recursos que facilitan el desarrollo de codigo.
 - :bellhop_bell: [Git Ignore](https://www.toptal.com/developers/gitignore) - Genera .gitignore.
 - :bellhop_bell: [Free for dev](https://free-for.dev/#/) - Recursos para desarrolladores.
 - :bellhop_bell: [Awesome](https://github.com/sindresorhus/awesome) - Recursos para desarrolladores.
+- :bellhop_bell: [IT-Tools](https://it-tools.tech/) - Recursos para desarrolladores.
 - :bellhop_bell: [Ray.so](https://www.ray.so/) - Crea imagenes bonitas de tu codigo.
 - :bellhop_bell: [Regex101](https://regex101.com/) - Expresiones regulares.
 - :bellhop_bell: [JSON Generator](https://www.jsongenerator.io/) - Genara JSON a la medida.
