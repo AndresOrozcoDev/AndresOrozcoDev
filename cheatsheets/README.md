@@ -153,6 +153,7 @@ Aplicaciones o recursos que facilitan el desarrollo de codigo.
 - :bellhop_bell: [Pingdom](https://tools.pingdom.com/) - Informacion de velocidad sobre la pagina.
 - :bellhop_bell: [Web Check](https://web-check.xyz/) - Informacion de velocidad sobre la pagina.
 - :bellhop_bell: [SEO Test](https://seotest.me/) - Informacion de velocidad sobre la pagina.
+- :bellhop_bell: [SEO Mater](https://seomator.com/) - Pagina para validar SEO.
 - :bellhop_bell: [Run SQL](https://runsql.com/r) - Editor SQL online.
 - :bellhop_bell: [ChartDB](https://app.chartdb.io/) - Creacion de diagrmas de bases de datos.
 - :bellhop_bell: [DB Diagram](https://dbdiagram.io/home/) - Creacion de diagrmas de bases de datos.
