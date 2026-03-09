@@ -83,6 +83,7 @@ Aprende y mejora tus habilidades de desarrollo jugando.
 - :video_game: [Checkio](https://checkio.org/) - Juego para aprender Python y Typescript.
 - :video_game: [Codedex](https://www.codedex.io/) - Juego para aprender HTML, Python y Typescript.
 - :video_game: [ZType](https://www.typing.com/es/student/game/ztype) - Juego de teclao.
+- :video_game: [Typing Club](https://www.typingclub.com/) - Juego de teclao.
 - :video_game: [LearnGitBranching](https://learngitbranching.js.org/?locale=es_ES) - Juego para aprender Git.
 - :video_game: [Play with Docker](https://labs.play-with-docker.com/) - Juego para aprender DOCKER.
 - :video_game: [Flexbox Froggy](https://flexboxfroggy.com/#es) - Juego para aprender CSS Flexbox.
