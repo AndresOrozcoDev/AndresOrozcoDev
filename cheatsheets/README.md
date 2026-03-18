@@ -56,6 +56,7 @@ Recursos visuales y herramientas de diseños para obtener creatividad.
 - :art: [Tailwind CSS Color Generator](https://uicolors.app/create) - Generador de colores.
 - :art: [Coolors](https://coolors.co/) - Generador de colores.
 - :art: [Kigen](https://kigen.design/color) - Generador de colores.
+- :art: [Realtime Colors](https://www.realtimecolors.com/?colors=050316-fbfbfe-56ce27-dddbff-443dff&fonts=Inter-Inter) - Generador de colores.
 - :art: [Pattern Craft](https://patterncraft.fun/) - Generador de fondos.
 
 ### Hosting de aplicaciones <a name="hosting"></a> 
@@ -160,6 +161,7 @@ Aplicaciones o recursos que facilitan el desarrollo de codigo.
 - :bellhop_bell: [DB Diagram](https://dbdiagram.io/home/) - Creacion de diagrmas de bases de datos.
 - :bellhop_bell: [DrawDB](https://www.drawdb.app/) - Creacion de diagrmas de bases de datos.
 - :bellhop_bell: [Database Build](https://database.build/) - Creacion de diagrmas de bases de datos.
+- :bellhop_bell: [Excalidraw](https://excalidraw.com/) - Creacion de diagrmas de bases de datos.
 - :bellhop_bell: [Rapid Charts](https://www.rapidcharts.ai/) - Creacion de diagrmas o flujos.
 - :bellhop_bell: [Brainboard](https://www.brainboard.co/) - Creacion de diagrmas o flujos.
 - :bellhop_bell: [FossFLOW](https://stan-smith.github.io/FossFLOW/) - Creacion de diagrmas o flujos.
