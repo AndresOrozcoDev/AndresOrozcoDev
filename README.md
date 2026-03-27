@@ -61,6 +61,9 @@ I’m a Systems Engineer and Full Stack Developer with 3+ years of experience bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
+## Stats
+[![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresOrozcoDev)](https://github.com/AndresOrozcoDev/github-readme-stats)
+
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@AndresOrozcoDev-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andresorozcodev/)
 [![Email](https://img.shields.io/badge/andres.orozco.dev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andres.orozco.dev@gmail.com)
