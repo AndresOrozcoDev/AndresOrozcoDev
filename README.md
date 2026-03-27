@@ -61,6 +61,12 @@ I’m a Systems Engineer and Full Stack Developer with 3+ years of experience bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
+
+## Streak Stats
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AndresOrozcoDev&hide_border=true" alt="GitHub Streak" /></a>
+</div>
+
 ## Stats
 [![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresOrozcoDev)](https://github.com/AndresOrozcoDev/github-readme-stats)
 
