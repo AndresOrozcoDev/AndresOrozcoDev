@@ -175,6 +175,7 @@ Aplicaciones o recursos que facilitan el desarrollo de codigo.
 - :bellhop_bell: [Deep Wiki](https://deepwiki.org/) - Documentacion de repositorios Github
 - :bellhop_bell: [CodeSandbox](https://codesandbox.io/templates) - Editor online para proyectos
 - :bellhop_bell: [Caninclude](https://caninclude.onrender.com/) - Validador de HTML.
+- :bellhop_bell: [Mark Map](https://markmap.js.org/repl) - Lectura de README de forma dinamica.
 
 ### Aplicaciones utiles <a name="apps"></a>
 
