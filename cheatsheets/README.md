@@ -18,7 +18,7 @@ Este repositorio recopila herramientas, aplicaciones, extensiones y enlaces úti
 - :hammer: [Herramientas de interes](#tools)
 - :page_facing_up: [Complementos para README.md](#readme)
 - :clipboard: [Mejora tu curriculo](#curriculum)
-- :toolbox: [Extensiones utiles de Chrome](#chrome)
+- :toolbox: [Extensiones utiles para el navegador](#chrome)
 - :keyboard: [Extensiones utiles de VSCode](#vscode)
 - :computer: [Repositorios utiles de Github](#github)
 - :movie_camera: [Canales utiles de Youtube](#youtube)
@@ -235,7 +235,7 @@ Herramientas para generar tu currículum profesional.
 - :clipboard: [EnhanCV](https://app.enhancv.com/) - Verificador de resumen.
 - :clipboard: [Genera CV](https://www.generacv.cl/) - Generecion de CV.
 
-### Extensiones utiles de Chrome <a name="chrome"></a>
+### Extensiones utiles para el navegador <a name="chrome"></a>
 
 Extensiones útiles para el navegador Chrome.
 
@@ -248,6 +248,7 @@ Extensiones útiles para el navegador Chrome.
 - :toolbox: [Lighthouse]()
 - :toolbox: [GoFullPage]()
 - :toolbox: [Meta Explorer]()
+- :toolbox: [CSS Peeper]()
 
 ### Extensiones utiles de VSCode <a name="vscode"></a>
 
