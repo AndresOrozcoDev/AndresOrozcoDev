@@ -250,6 +250,7 @@ Extensiones útiles para el navegador Chrome.
 - :toolbox: [GoFullPage]()
 - :toolbox: [Meta Explorer]()
 - :toolbox: [CSS Peeper]()
+- :toolbox: [WhatFont]()
 
 ### Extensiones utiles de VSCode <a name="vscode"></a>
 
