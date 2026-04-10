@@ -191,6 +191,7 @@ Aplicaciones para desarrollar software.
 - :detective: [UV](https://github.com/astral-sh/uv)
 - :detective: [Ngrok](https://ngrok.com/)
 - :detective: [DbGate](https://github.com/dbgate/dbgate)
+- :detective: [GitHub CLI](https://cli.github.com/)
 
 ### Librerias utiles <a name="packages"></a> 
 
