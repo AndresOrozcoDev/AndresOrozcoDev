@@ -259,6 +259,7 @@ Extensiones útiles para el navegador Chrome.
 Extensiones esenciales para Visual Studio Code.
 
 - :keyboard: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- :keyboard: [NPM Visual Manager](https://marketplace.visualstudio.com/items?itemName=LuisClementDev.npm-visual-manager)
 - :keyboard: [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 - :keyboard: [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - :keyboard: [Live Share](https://code.visualstudio.com/learn/collaboration/live-share)
