@@ -12,12 +12,8 @@
 
 > #### Mejorar la claidad de una foto.
 >
-> - Transforma la imagen cargada de baja calidad y borrosa en una imagen con calidad cinematográfica y un nivel de detalle extremo.
-Mejora de imagen profesional de calidad ultra-premium.
-Preserva el 100% de la identidad original, la estructura facial, la expresión, la pose, la vestimenta, los accesorios, el fondo, el encuadre y la composición.
-NO alteres, rediseñes, reemplaces ni añadas nada.
-RECUPERACIÓN DE MICRODETALLES:
-* Rasgos faciales nítidos
+> - Transforma la imagen cargada de baja calidad y borrosa en una imagen con calidad cinematográfica y un nivel de detalle extremo. Mejora de imagen profesional de calidad ultra-premium. Preserva el 100% de la identidad original, la estructura facial, la expresión, la pose, la vestimenta, los accesorios, el fondo, el encuadre y la composición. NO alteres, rediseñes, reemplaces ni añadas nada. RECUPERACIÓN DE MICRODETALLES:
+> * Rasgos faciales nítidos
 * Textura de piel natural
 * Poros visibles
 * Hebras de cabello realistas
