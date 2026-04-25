@@ -1,6 +1,17 @@
 # Informacion util sobre IA
 
-## Prompt Utiles
+- :movie_camera: [Skills](#skills)
+- :movie_camera: [MCP´s](#mcp)
+- :movie_camera: [Prompts Utiles](#prompts)
+
+## Skills Utiles <a name="skills"></a>
+Herramientas que mejoran la productividad de desarrollo con IA.
+
+## MCP´s Utiles <a name="mcp"></a>
+Herramientas que mejoran la productividad de desarrollo con IA.
+
+## Prompt Utiles <a name="prompts"></a>
+Herramientas que mejoran la productividad de desarrollo con IA.
 
 > #### Creacion de documentacón para proyectos.
 >
