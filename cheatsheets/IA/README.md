@@ -1,5 +1,7 @@
 # Informacion util sobre IA
 
+## Prompt Utiles
+
 > #### Creacion de documentacón para proyectos.
 >
 > - Document this project: overview, architecture, setup, steps, key APIs with examples. output as DOCS.md
