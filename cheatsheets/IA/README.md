@@ -1,14 +1,14 @@
 # Informacion util sobre IA
 
-```bash
-  Document this project: overview, architecture, setup, steps, key APIs with examples.
+> #### Creacion de documentacón para proyectos.
+>
+> - Document this project: overview, architecture, setup, steps, key APIs with examples. output as DOCS.md
+>
 
-  output as DOCS.md
-```
+> #### Optimizacion del perfil en LinkedIn.
+>
+> - Actua como un consultor de crecimiento en LinkedIn de clase mundial que optimiza perfiles para visibilidad y oportunidades. Analiza mi perfil completo de LinkedIn e identifica debilidades en el titular, resumen, experiencia y posicionamiento. Porporciona mejoras especificas para aumentar el impacto del perfil. Perfil [url]() o como pdf generado directamente desde linkedIn [adjuntar pdf]().
 
-```bash
-  Actua como un consultor de crecimiento en LinkedIn de clase mundial que optimiza perfiles para visibilidad y oportunidades. Analiza mi perfil completo de LinkedIn e identifica debilidades en el titular, resumen, experiencia y posicionamiento. Porporciona mejoras especificas para aumentar el impacto del perfil. Perfil [url]() o como pdf generado directamente desde linkedIn [adjuntar pdf]().
-```
 
 ```bash
   Transforma la imagen cargada de baja calidad y borrosa en una imagen con calidad cinematográfica y un nivel de detalle extremo.
