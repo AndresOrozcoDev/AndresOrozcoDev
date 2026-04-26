@@ -1,17 +1,17 @@
 # Informacion util sobre IA
 
-- :movie_camera: [Skills](#skills)
-- :movie_camera: [MCP´s](#mcp)
-- :movie_camera: [Prompts Utiles](#prompts)
+- 🛠️ [Skills](#skills)
+- 🔌 [MCP´s](#mcp)
+- ⚡ [Prompts Utiles](#prompts)
 
-## Skills Utiles <a name="skills"></a>
-Herramientas que mejoran la productividad de desarrollo con IA.
+## 🛠️ Skills Utiles <a name="skills"></a>
+Coleccion de habilidades tecnicas para transformar la IA.
 
-## MCP´s Utiles <a name="mcp"></a>
-Herramientas que mejoran la productividad de desarrollo con IA.
+## 🔌 MCP´s Utiles <a name="mcp"></a>
+Coleccion de protocolos para mejorar los flujos con IA.
 
-## Prompt Utiles <a name="prompts"></a>
-Herramientas que mejoran la productividad de desarrollo con IA.
+## ⚡ Prompt Utiles <a name="prompts"></a>
+Instrucciones diseñadas para optimizar respuestas.
 
 > #### Creacion de documentacón para proyectos.
 >
