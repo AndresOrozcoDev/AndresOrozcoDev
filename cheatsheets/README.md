@@ -133,6 +133,7 @@ Aplicaciones o sitios web para estudiar y aprender de programacion.
 Aplicaciones o recursos que facilitan el desarrollo de codigo.
 
 - :bellhop_bell: [Public Apis](https://publicapis.dev/) - API's gratuitas
+- :bellhop_bell: [Skelementor](https://skelementor.com/) - Componentes completos para Elementor
 - :bellhop_bell: [font Awesome](https://fontawesome.com/) - Libreria de iconos
 - :bellhop_bell: [Lucide Icons](https://lucide.dev/icons/) - Libreria de iconos
 - :bellhop_bell: [All SVG Icons](https://allsvgicons.com/) - Pagina de iconos
