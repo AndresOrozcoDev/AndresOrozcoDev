@@ -9,6 +9,7 @@ Coleccion de habilidades tecnicas para transformar la IA.
 
 ## 🔌 MCP´s Utiles <a name="mcp"></a>
 Coleccion de protocolos para mejorar los flujos con IA.
+- [Apify](https://apify.com/) - Para hacer scraping de tus competidores.
 
 ## ⚡ Prompt Utiles <a name="prompts"></a>
 Instrucciones diseñadas para optimizar respuestas.
