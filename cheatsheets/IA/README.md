@@ -1,15 +1,22 @@
 # Informacion util sobre IA
 
+- [Herramientas](#tools)
 - 🛠️ [Skills](#skills)
 - 🔌 [MCP´s](#mcp)
 - ⚡ [Prompts Utiles](#prompts)
 
+## 🛠️ Heramientas Utiles <a name="tools"></a>
+- [Google Stitch](https://stitch.withgoogle.com/) - Creacion de diseños web.
+- [Google Mix Board](https://labs.google.com/mixboard/welcome) - Creacion de piezas publicitarias.
+
 ## 🛠️ Skills Utiles <a name="skills"></a>
 Coleccion de habilidades tecnicas para transformar la IA.
+- [Remotion](https://www.remotion.dev/) - Creacion de videos con Claude
 
 ## 🔌 MCP´s Utiles <a name="mcp"></a>
 Coleccion de protocolos para mejorar los flujos con IA.
 - [Apify](https://apify.com/) - Para hacer scraping de tus competidores.
+- [Google Stitch](https://stitch.withgoogle.com/docs/mcp/setup) - Para enlazar los diseños generados por la IA.
 
 ## ⚡ Prompt Utiles <a name="prompts"></a>
 Instrucciones diseñadas para optimizar respuestas.
@@ -36,8 +43,8 @@ Instrucciones diseñadas para optimizar respuestas.
 > Claridad de alto contraste, profundidad intensa e iluminación cinematográfica equilibrada. Realismo digno de un póster, con detalles dramáticos pero precisos. Salida en resolución 8K, calidad ProRes y nitidez de nivel de estudio. Solo texturas fotorrealistas. Solo mejoras fieles a la fuente original. Mantén todo exactamente igual; simplemente mejora la calidad.
 >
 
-> #### Mejora el estado de una foto.
+> #### Recuperar el estado de una foto.
 >
-> - recupera esta foto sin hacer ningún cambio a la persona, rostro o vestimenta. Quiero la misma foto exacta pero restaurada, quiero el fondo actualizado pero no cambiado, texturas de piel suaves y realistas. y una iluminacion natural. La vestimenta y fondo deben actualizarse de manera estética y limpia. mientras se conserva la autenticidad de la posa y las expresiones naturales.
+> - Recupera esta foto sin hacer ningún cambio a la persona, rostro o vestimenta. Quiero la misma foto exacta pero restaurada, quiero el fondo actualizado pero no cambiado, texturas de piel suaves y realistas. y una iluminacion natural. La vestimenta y fondo deben actualizarse de manera estética y limpia. mientras se conserva la autenticidad de la posa y las expresiones naturales.
 > 
 
