@@ -1,7 +1,7 @@
 # Informacion util sobre IA
 
-- [Herramientas](#tools)
-- 🛠️ [Skills](#skills)
+- 🛠️ [Herramientas](#tools)
+- 💪 [Skills](#skills)
 - 🔌 [MCP´s](#mcp)
 - ⚡ [Prompts Utiles](#prompts)
 
@@ -10,7 +10,7 @@
 - [Readdy AI](https://readdy.ai/) - Creacion de diseños web.
 - [Google Mix Board](https://labs.google.com/mixboard/welcome) - Creacion de piezas publicitarias.
 
-## 🛠️ Skills Utiles <a name="skills"></a>
+## 💪 Skills Utiles <a name="skills"></a>
 Coleccion de habilidades tecnicas para transformar la IA.
 - [Remotion](https://www.remotion.dev/) - Creacion de videos con Claude
 
