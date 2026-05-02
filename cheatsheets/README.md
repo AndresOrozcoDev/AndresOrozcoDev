@@ -240,12 +240,14 @@ Extensiones útiles para el navegador Chrome.
 - :toolbox: [Simulador Movil]()
 - :toolbox: [ColorZilla]()
 - :toolbox: [html.to.design]()
-- :toolbox: [Lighthouse]()
+- :toolbox: [Lighthouse]() - Reporte de rendimientos
 - :toolbox: [GoFullPage]()
 - :toolbox: [Meta Explorer]()
 - :toolbox: [CSS Peeper]()
 - :toolbox: [WhatFont]()
 - :toolbox: [CSS Scan]()
+- :toolbox: [BrowserStack]() - Visualizador de pagina web en varios navegadores
+- :toolbox: [Loom]() - Grabacion del navegador 
 
 ### Extensiones utiles de VSCode <a name="vscode"></a>
 
