@@ -5,7 +5,6 @@ Este repositorio recopila herramientas, aplicaciones, extensiones y enlaces úti
 
 ## Indice
 
-- :rocket: [Asistentes de IA](#copilot)
 - :flying_saucer: [Generacion de API's](#apis)
 - :art: [Expande tus diseños](#design)
 - :classical_building: [Hosting de aplicaciones](#hosting)
@@ -23,18 +22,6 @@ Este repositorio recopila herramientas, aplicaciones, extensiones y enlaces úti
 - :computer: [Repositorios utiles de Github](#github)
 - :movie_camera: [Canales utiles de Youtube](#youtube)
 - :closed_book: [Complementa con libros](#books)
-
-
-### Asistentes de IA <a name="copilot"></a>
-
-Herramientas que mejoran la productividad de desarrollo con IA.
-
-- :rocket: [Chat GPT](https://chatgpt.com/)
-- :rocket: [Gemini](https://gemini.google.com/)
-- :rocket: [Claude](https://claude.ai/new)
-- :rocket: [Black box](https://www.blackbox.ai/)
-- :rocket: [You](https://you.com/)
-- :rocket: [Grok](https://grok.com/)
 
 ### Generacion de API's <a name="apis"></a>
 
@@ -258,6 +245,7 @@ Extensiones útiles para el navegador Chrome.
 - :toolbox: [Meta Explorer]()
 - :toolbox: [CSS Peeper]()
 - :toolbox: [WhatFont]()
+- :toolbox: [CSS Scan]()
 
 ### Extensiones utiles de VSCode <a name="vscode"></a>
 
