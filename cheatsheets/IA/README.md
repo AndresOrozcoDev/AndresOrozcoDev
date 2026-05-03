@@ -48,5 +48,10 @@ Instrucciones diseñadas para optimizar respuestas.
 > #### Recuperar el estado de una foto.
 >
 > - Recupera esta foto sin hacer ningún cambio a la persona, rostro o vestimenta. Quiero la misma foto exacta pero restaurada, quiero el fondo actualizado pero no cambiado, texturas de piel suaves y realistas. y una iluminacion natural. La vestimenta y fondo deben actualizarse de manera estética y limpia. mientras se conserva la autenticidad de la posa y las expresiones naturales.
+>
+
+> #### Genera colorimetria de tu rostro.
+>
+> - Usando este retrato, crea un análisis visual premium de imagen personal. Empieza con un diagrama de colorimetría mostrando las estaciones (Primavera, Verano, Otoño, Invierno) y destaca cuál encaja mejor con el sujeto. Después muestra comparativas visuales lado a lado de colores favorecedores vs colores que apagan, incluyendo ropa, neutros, colores acento y metales (oro vs plata). Añade diagnóstico de subtono de piel y referencias visuales estilo asesoría de imagen de lujo. Haz que parezca una infografía editorial moderna y muy compartible. Prioriza lo visual sobre el texto, usa solo etiquetas cortas, sin párrafos, estética limpia y formato vertical 9:16. Si vas a utilizar fotos de modelos o fotos de prendas de ropa, utiliza mi cara.
 > 
 
