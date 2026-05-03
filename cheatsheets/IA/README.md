@@ -55,3 +55,10 @@ Instrucciones diseñadas para optimizar respuestas.
 > - Usando este retrato, crea un análisis visual premium de imagen personal. Empieza con un diagrama de colorimetría mostrando las estaciones (Primavera, Verano, Otoño, Invierno) y destaca cuál encaja mejor con el sujeto. Después muestra comparativas visuales lado a lado de colores favorecedores vs colores que apagan, incluyendo ropa, neutros, colores acento y metales (oro vs plata). Añade diagnóstico de subtono de piel y referencias visuales estilo asesoría de imagen de lujo. Haz que parezca una infografía editorial moderna y muy compartible. Prioriza lo visual sobre el texto, usa solo etiquetas cortas, sin párrafos, estética limpia y formato vertical 9:16. Si vas a utilizar fotos de modelos o fotos de prendas de ropa, utiliza mi cara.
 > 
 
+> #### Busqueda de trabajo.
+>
+> - Revisa mi CV y reescríbelo para que coincida con esta descripción de trabajo. Prioriza las experiencias y habilidades más relevantes para el puesto. Usa las palabras clave de la oferta de forma natural, especialmente en el resumen y los puntos clave. Elimina o reduce lo que no aporte valor para este rol específico
+Mantén la misma estructura pero que cada línea justifique su lugar. CV: [pega tu CV]
+Descripción del puesto: [pega la oferta].
+> - Escribe una carta de presentación para el puesto de [título] en [empresa]. Mi experiencia: [2-3 puntos clave]. No empieces con 'Me dirijo a usted para...' — abre con un gancho que conecte mi experiencia directamente con un problema que esta empresa quiere resolver. Máximo 250 palabras. Tono seguro y humano, no formal ni rígido. Cierra con un CTA concreto que muestre interés real en el siguiente paso.
+> - Tengo una entrevista para el puesto de [título] en [empresa], que se dedica a [descripción breve]. Basándote en la descripción del puesto, dame las 10 preguntas más probables organizadas en: preguntas de comportamiento, preguntas técnicas y preguntas de cultura. Para cada una, dame un esquema de cómo sería una buena respuesta. Luego dame 3 preguntas inteligentes que yo pueda hacerle al entrevistador para destacar. Descripción del puesto: [pega la oferta]
