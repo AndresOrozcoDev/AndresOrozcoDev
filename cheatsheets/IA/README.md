@@ -2,6 +2,7 @@
 
 - 🛠️ [Herramientas](#tools)
 - 💪 [Skills](#skills)
+-  [Plugins](#plugins)
 - 🔌 [MCP´s](#mcp)
 - ⚡ [Prompts Utiles](#prompts)
 
@@ -15,8 +16,10 @@ Coleccion de habilidades tecnicas para transformar la IA.
 - [Remotion](https://www.remotion.dev/) - Creacion de videos con Claude.
 - [Hyperframes](https://github.com/heygen-com/hyperframes) - Creacion de videos con programacion.
 
-## Plugins Utiles
--[](https://github.com/trailofbits/skills) - Para mantener la seguridad en el backend.
+## Plugins Utiles <a name="plugins"></a>
+- [](https://github.com/trailofbits/skills) - Para mantener la seguridad en el backend.
+- [](https://github.com/AgriciDaniel/banana-claude) - Para conectar con los modelos de Gemini.
+  
 ## 🔌 MCP´s Utiles <a name="mcp"></a>
 Coleccion de protocolos para mejorar los flujos con IA.
 - [Apify](https://apify.com/) - Para hacer scraping de tus competidores.
