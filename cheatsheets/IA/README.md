@@ -12,7 +12,8 @@
 
 ## 💪 Skills Utiles <a name="skills"></a>
 Coleccion de habilidades tecnicas para transformar la IA.
-- [Remotion](https://www.remotion.dev/) - Creacion de videos con Claude
+- [Remotion](https://www.remotion.dev/) - Creacion de videos con Claude.
+- [Hyperframes](https://github.com/heygen-com/hyperframes) - Creacion de videos con programacion.
 
 ## 🔌 MCP´s Utiles <a name="mcp"></a>
 Coleccion de protocolos para mejorar los flujos con IA.
