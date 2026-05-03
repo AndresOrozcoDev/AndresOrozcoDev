@@ -18,8 +18,9 @@ Coleccion de habilidades tecnicas para transformar la IA.
 - [Napkin](https://github.com/blader/napkin) - Almacena los errores por proyectos y ener memoria.
 
 ## Plugins Utiles <a name="plugins"></a>
+- [Codex Plugin Claude COde](https://github.com/openai/codex-plugin-cc) - Para conectar Codex e implementar.
 - [Trailof Bits](https://github.com/trailofbits/skills) - Para mantener la seguridad en el backend.
-- [Bnana Claude](https://github.com/AgriciDaniel/banana-claude) - Para conectar con los modelos de Gemini.
+- [Banana Claude](https://github.com/AgriciDaniel/banana-claude) - Para conectar con los modelos de Gemini.
 - [Caveman](https://github.com/JuliusBrussee/caveman) - Para reducir los tokens.
   
 ## 🔌 MCP´s Utiles <a name="mcp"></a>
