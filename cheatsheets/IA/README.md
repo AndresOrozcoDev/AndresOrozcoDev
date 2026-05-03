@@ -15,10 +15,12 @@
 Coleccion de habilidades tecnicas para transformar la IA.
 - [Remotion](https://www.remotion.dev/) - Creacion de videos con Claude.
 - [Hyperframes](https://github.com/heygen-com/hyperframes) - Creacion de videos con programacion.
+- [Napkin](https://github.com/blader/napkin) - Almacena los errores por proyectos y ener memoria.
 
 ## Plugins Utiles <a name="plugins"></a>
-- [](https://github.com/trailofbits/skills) - Para mantener la seguridad en el backend.
-- [](https://github.com/AgriciDaniel/banana-claude) - Para conectar con los modelos de Gemini.
+- [Trailof Bits](https://github.com/trailofbits/skills) - Para mantener la seguridad en el backend.
+- [Bnana Claude](https://github.com/AgriciDaniel/banana-claude) - Para conectar con los modelos de Gemini.
+- [Caveman](https://github.com/JuliusBrussee/caveman) - Para reducir los tokens.
   
 ## 🔌 MCP´s Utiles <a name="mcp"></a>
 Coleccion de protocolos para mejorar los flujos con IA.
