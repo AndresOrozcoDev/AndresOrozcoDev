@@ -10,6 +10,7 @@ Una colección curada de herramientas, skills, plugins, MCPs y prompts para inge
 ## 🛠️ Heramientas Utiles <a name="tools"></a>
 Interfaces y utilidades para flujos de diseño y procesamiento
 - [Google Stitch](https://stitch.withgoogle.com/) - Creacion de diseños web.
+- [Open CoDesign](https://opencoworkai.github.io/open-codesign/) - Creacion de diseños web.
 - [Readdy AI](https://readdy.ai/) - Creacion de diseños web.
 - [Google Mix Board](https://labs.google.com/mixboard/welcome) - Creacion de piezas publicitarias.
 - [MarkitDown](https://github.com/microsoft/markitdown) - Lectura de archivos y genera JSON para reducir tokens.
