@@ -10,6 +10,7 @@
 - [Google Stitch](https://stitch.withgoogle.com/) - Creacion de diseños web.
 - [Readdy AI](https://readdy.ai/) - Creacion de diseños web.
 - [Google Mix Board](https://labs.google.com/mixboard/welcome) - Creacion de piezas publicitarias.
+- [MarkitDown](https://github.com/microsoft/markitdown) - Lectura de archivos y genera JSON para reducir tokens.
 
 ## 💪 Skills Utiles <a name="skills"></a>
 Coleccion de habilidades tecnicas para transformar la IA.
