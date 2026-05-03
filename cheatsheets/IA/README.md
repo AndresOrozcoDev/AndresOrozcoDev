@@ -1,37 +1,40 @@
-# Informacion util sobre IA
+# Herramientas de IA
+Una colección curada de herramientas, skills, plugins, MCPs y prompts para ingenieros que construyen con IA.
 
 - 🛠️ [Herramientas](#tools)
 - 💪 [Skills](#skills)
--  [Plugins](#plugins)
+- ⚙ [Plugins](#plugins)
 - 🔌 [MCP´s](#mcp)
 - ⚡ [Prompts Utiles](#prompts)
 
 ## 🛠️ Heramientas Utiles <a name="tools"></a>
+Interfaces y utilidades para flujos de diseño y procesamiento
 - [Google Stitch](https://stitch.withgoogle.com/) - Creacion de diseños web.
 - [Readdy AI](https://readdy.ai/) - Creacion de diseños web.
 - [Google Mix Board](https://labs.google.com/mixboard/welcome) - Creacion de piezas publicitarias.
 - [MarkitDown](https://github.com/microsoft/markitdown) - Lectura de archivos y genera JSON para reducir tokens.
 
 ## 💪 Skills Utiles <a name="skills"></a>
-Coleccion de habilidades tecnicas para transformar la IA.
+Capacidades técnicas para expandir lo que la IA puede hacer
 - [Remotion](https://www.remotion.dev/) - Creacion de videos con Claude.
 - [Hyperframes](https://github.com/heygen-com/hyperframes) - Creacion de videos con programacion.
 - [Napkin](https://github.com/blader/napkin) - Almacena los errores por proyectos y ener memoria.
 
-## Plugins Utiles <a name="plugins"></a>
+## ⚙ Plugins Utiles <a name="plugins"></a>
+Extensiones que conectan Claude con otros modelos y sistemas
 - [Codex Plugin Claude COde](https://github.com/openai/codex-plugin-cc) - Para conectar Codex e implementar.
 - [Trailof Bits](https://github.com/trailofbits/skills) - Para mantener la seguridad en el backend.
 - [Banana Claude](https://github.com/AgriciDaniel/banana-claude) - Para conectar con los modelos de Gemini.
 - [Caveman](https://github.com/JuliusBrussee/caveman) - Para reducir los tokens.
   
 ## 🔌 MCP´s Utiles <a name="mcp"></a>
-Coleccion de protocolos para mejorar los flujos con IA.
+Protocolos que integran servicios externos directamente en el flujo de IA
 - [Apify](https://apify.com/) - Para hacer scraping de tus competidores.
 - [Google Stitch](https://stitch.withgoogle.com/docs/mcp/setup) - Para enlazar los diseños generados por la IA.
 - [MCP-GSC](https://github.com/AminForou/mcp-gsc) - Para enlazar con Google Search Console.
 
 ## ⚡ Prompt Utiles <a name="prompts"></a>
-Instrucciones diseñadas para optimizar respuestas.
+Instrucciones probadas para maximizar el output de los modelos
 
 > #### Creacion de documentacón para proyectos.
 >
