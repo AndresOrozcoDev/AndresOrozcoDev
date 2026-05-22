@@ -190,6 +190,7 @@ Librerias NPM de gran interes o utiles.
 
 - :package: [npkill](https://www.npmjs.com/package/npkill) - Libreria para eliminar paquetes npm sin uso.
 - :package: [CodeGraph](https://github.com/colbymchenry/codegraph) - Libreria para crear grafos del proyecto para IA.
+- :package: [Repomix](https://github.com/yamadashy/repomix) - Libreria para crear contexto del proyecto para IA.
 
 ### Herramientas de interes <a name="tools"></a>
 
