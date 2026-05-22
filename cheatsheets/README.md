@@ -119,6 +119,7 @@ Aplicaciones o sitios web para estudiar y aprender de programacion.
 
 Aplicaciones o recursos que facilitan el desarrollo de codigo.
 
+- :bellhop_bell: [Desig.md](https://designmd.me/) - Extrae el diseño de una pagina para IA.
 - :bellhop_bell: [Public Apis](https://publicapis.dev/) - API's gratuitas
 - :bellhop_bell: [Skelementor](https://skelementor.com/) - Componentes completos para Elementor
 - :bellhop_bell: [font Awesome](https://fontawesome.com/) - Libreria de iconos
