@@ -251,6 +251,7 @@ Extensiones útiles para el navegador Chrome.
 - :toolbox: [CSS Scan]()
 - :toolbox: [BrowserStack]() - Visualizador de pagina web en varios navegadores
 - :toolbox: [Loom]() - Grabacion del navegador 
+- :toolbox: [Accessibility Design System]() - Extrae los diseños de una pagina para la IA. 
 
 ### Extensiones utiles de VSCode <a name="vscode"></a>
 
