@@ -68,6 +68,10 @@ Instrucciones probadas para maximizar el output de los modelos
 > #### Genera colorimetria de tu rostro.
 >
 > - Usando este retrato, crea un análisis visual premium de imagen personal. Empieza con un diagrama de colorimetría mostrando las estaciones (Primavera, Verano, Otoño, Invierno) y destaca cuál encaja mejor con el sujeto. Después muestra comparativas visuales lado a lado de colores favorecedores vs colores que apagan, incluyendo ropa, neutros, colores acento y metales (oro vs plata). Añade diagnóstico de subtono de piel y referencias visuales estilo asesoría de imagen de lujo. Haz que parezca una infografía editorial moderna y muy compartible. Prioriza lo visual sobre el texto, usa solo etiquetas cortas, sin párrafos, estética limpia y formato vertical 9:16. Si vas a utilizar fotos de modelos o fotos de prendas de ropa, utiliza mi cara.
+
+> #### Genera informe de tu rosto.
+>
+> - Crea un informe de belleza facial limpio, minimalista y de alta gama basado en esta foto. Usa un diseño en blanco y negro, con líneas finas, tarjetas con bordes redondeados y una estética de lujo. Incluye un dibujo simple del contorno del rostro, un análisis honesto del atractivo (simetría, proporciones, estructura ósea, piel, etc.), puntuaciones claras, puntos fuertes, áreas de mejora y recomendaciones prácticas de grooming/estilo. Mantén un enfoque basado en datos, visualmente refinado y sin ser excesivamente halagador.
 > 
 
 > #### Busqueda de trabajo.
