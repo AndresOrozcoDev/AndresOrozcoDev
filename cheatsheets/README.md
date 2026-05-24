@@ -279,6 +279,9 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint&ssr=false#overview)
 - :keyboard: [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - :keyboard: [Indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- :keyboard: [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+- :keyboard: [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- :keyboard: [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
 ### Repositorios utiles de Github <a name="github"></a>
 
