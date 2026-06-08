@@ -210,6 +210,7 @@ Herramientas adicionales para mejorar tu flujo de trabajo.
 - :hammer: [unSplash](https://unsplash.com/es) - Recursos de imagenes.
 - :hammer: [Shots](https://shots.so/) - Creacion de imagenes publicitarias con fondos.
 - :hammer: [Rising Stars](https://risingstars.js.org/2025/en) - Tecnologias de JS en tendencias.
+- :hammer: [Yoodli](https://yoodli.ai/) - Plataforma para practicar para entrevistas.
 
 ### Complementos para README.md <a name="readme"></a>
 
