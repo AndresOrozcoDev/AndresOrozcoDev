@@ -15,6 +15,7 @@ Interfaces y utilidades para flujos de diseño y procesamiento
 - [Relume IO](https://www.relume.io/?r=0) - Creacion de diseños web.
 - [Google Mix Board](https://labs.google.com/mixboard/welcome) - Creacion de piezas publicitarias.
 - [MarkitDown](https://github.com/microsoft/markitdown) - Lectura de archivos y genera JSON para reducir tokens.
+- [Wacrawl](https://github.com/openclaw/wacrawl) - Analisis de chat de Whatsapp.
 
 ## 💪 Skills Utiles <a name="skills"></a>
 Capacidades técnicas para expandir lo que la IA puede hacer
