@@ -185,6 +185,7 @@ Aplicaciones para desarrollar software.
 - :detective: [Ngrok](https://ngrok.com/)
 - :detective: [DbGate](https://github.com/dbgate/dbgate)
 - :detective: [GitHub CLI](https://cli.github.com/)
+- :detective: [Obsidian](https://obsidian.md/)
 
 ### Librerias utiles <a name="packages"></a> 
 
