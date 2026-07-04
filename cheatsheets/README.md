@@ -287,6 +287,9 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 - :keyboard: [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - :keyboard: [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+- :keyboard: [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- :keyboard: [Auto Rename](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- :keyboard: [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
 ### Repositorios utiles de Github <a name="github"></a>
 
