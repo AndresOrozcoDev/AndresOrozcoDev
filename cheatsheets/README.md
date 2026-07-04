@@ -291,6 +291,7 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - :keyboard: [Auto Rename](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - :keyboard: [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- :keyboard: [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
 
 ### Repositorios utiles de Github <a name="github"></a>
 
