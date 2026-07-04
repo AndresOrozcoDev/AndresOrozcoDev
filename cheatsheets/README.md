@@ -171,6 +171,8 @@ Aplicaciones o recursos que facilitan el desarrollo de codigo.
 - :bellhop_bell: [CodeSandbox](https://codesandbox.io/templates) - Editor online para proyectos
 - :bellhop_bell: [Caninclude](https://caninclude.onrender.com/) - Validador de HTML.
 - :bellhop_bell: [Mark Map](https://markmap.js.org/repl) - Lectura de README de forma dinamica.
+- :bellhop_bell: [Local Stack](https://www.localstack.cloud/) - AWS de forma local.
+- :bellhop_bell: [Floci IO](https://floci.io/) - Cloud de forma local.
 
 ### Aplicaciones utiles <a name="apps"></a>
 
