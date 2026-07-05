@@ -61,6 +61,9 @@ Instrucciones probadas para maximizar el output de los modelos
 > * Bordes limpios у refinados.
 > Claridad de alto contraste, profundidad intensa e iluminación cinematográfica equilibrada. Realismo digno de un póster, con detalles dramáticos pero precisos. Salida en resolución 8K, calidad ProRes y nitidez de nivel de estudio. Solo texturas fotorrealistas. Solo mejoras fieles a la fuente original. Mantén todo exactamente igual; simplemente mejora la calidad.
 >
+>
+> - Transforma tu imagen borrosa, de baja calidad y con mucho ruido visual en una imagen cinematográfica con detalles extremos. Conserva el 100% de la identidad original: estructura facial, expresión, pose, ropa, accesorios, fondo, encuadre y composición. NO alteres, redibujes, reemplaces ni añadas nada. RECUPERACIÓN DE MICRODETALLES: Rasgos faciales nítidos Textura de piel natural Poros visibles Mechones de cabello realistas
+Ojos cristalinos Bordes limpios у definidos Alto contraste, gran profundidad e iluminación cinematográfica equilibrada. Realismo digno de póster con detalles dramáticos y precisos. Salida en resolución 8K, calidad ProRes, nitidez de estudio. Solo texturas fotorrealistas. Mejoras fieles a la fuente original. Mantén todo igual, solo mejora la calidad.
 
 > #### Recuperar el estado de una foto.
 >
