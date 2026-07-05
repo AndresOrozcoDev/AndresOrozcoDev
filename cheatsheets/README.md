@@ -264,6 +264,7 @@ Extensiones útiles para el navegador Chrome.
 - :toolbox: [Accessibility Design System]() - Extrae los diseños de una pagina para la IA. 
 - :toolbox: [Copy as Markdown]() - Convierto paginas o archivos a Markdown. 
 - :toolbox: [Obsidian Web Clipper]() -  
+- :toolbox: [.MD this page]() -  
 
 ### Extensiones utiles de VSCode <a name="vscode"></a>
 
