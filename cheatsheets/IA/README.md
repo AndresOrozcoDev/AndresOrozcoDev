@@ -52,6 +52,11 @@ Instrucciones probadas para maximizar el output de los modelos
 > - Actua como un consultor de crecimiento en LinkedIn de clase mundial que optimiza perfiles para visibilidad y oportunidades. Analiza mi perfil completo de LinkedIn e identifica debilidades en el titular, resumen, experiencia y posicionamiento. Porporciona mejoras especificas para aumentar el impacto del perfil. Perfil [url]() o como pdf generado directamente desde linkedIn [adjuntar pdf]().
 >
 
+> #### Efecto en fotos.
+>
+> - Transforma esta foto como si hubiera sido tomada con un canon g7 max iii con flash.
+>
+> 
 > #### Mejorar la claidad de una foto.
 >
 > - Transforma la imagen cargada de baja calidad y borrosa en una imagen con calidad cinematográfica y un nivel de detalle extremo. Mejora de imagen profesional de calidad ultra-premium. Preserva el 100% de la identidad original, la estructura facial, la expresión, la pose, la vestimenta, los accesorios, el fondo, el encuadre y la composición. NO alteres, rediseñes, reemplaces ni añadas nada. RECUPERACIÓN DE MICRODETALLES:
