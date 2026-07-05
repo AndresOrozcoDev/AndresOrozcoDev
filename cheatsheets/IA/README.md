@@ -17,6 +17,7 @@ Interfaces y utilidades para flujos de diseño y procesamiento
 - [MarkitDown](https://github.com/microsoft/markitdown) - Lectura de archivos y genera JSON para reducir tokens.
 - [Wacrawl](https://github.com/openclaw/wacrawl) - Analisis de chat de Whatsapp.
 - [MarkDown](https://markitdown.online/l) - Convierte archivos en .md.
+- [GitToSkill](https://www.gittoskill.com/) - Crea skill deacuerdo a tu Github.
 
 ## 💪 Skills Utiles <a name="skills"></a>
 Capacidades técnicas para expandir lo que la IA puede hacer
