@@ -18,6 +18,7 @@ Interfaces y utilidades para flujos de diseño y procesamiento
 - [Wacrawl](https://github.com/openclaw/wacrawl) - Analisis de chat de Whatsapp.
 - [MarkDown](https://markitdown.online/l) - Convierte archivos en .md.
 - [GitToSkill](https://www.gittoskill.com/) - Crea skill deacuerdo a tu Github.
+- [Google-Maps-Scraper](https://github.com/gosom/google-maps-scraper) - Aplicacion de Scrapping.
 
 ## 💪 Skills Utiles <a name="skills"></a>
 Capacidades técnicas para expandir lo que la IA puede hacer
