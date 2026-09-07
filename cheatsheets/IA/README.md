@@ -16,6 +16,7 @@ Este repositorio recopila interfaces de diseño, utilidades de procesamiento, es
 
 Interfaces y utilidades optimizadas para el procesamiento de contexto, scraping estructurado y maquetación visual.
 
+- 🛠️ [Hermes](https://hermes-agent.ai/) - Gestion de un Agente.
 - 🛠️ [Google Stitch](https://stitch.withgoogle.com/) - Entorno colaborativo de Google enfocado en la estructuración, consistencia e inspección de patrones de diseño UI/UX.
 - 🛠️ [Open CoDesign](https://opencoworkai.github.io/open-codesign/) - Framework de diseño abierto y colaborativo asistido por IA para la generación iterativa de componentes de interfaz.
 - 🛠️ [Readdy AI](https://readdy.ai/) - Plataforma basada en IA para analizar tendencias estéticas y generar layouts web modernos de alta fidelidad.
