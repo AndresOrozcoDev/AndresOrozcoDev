@@ -26,7 +26,7 @@ Interfaces y utilidades optimizadas para el procesamiento de contexto, scraping 
 - 🛠️ [MarkitDown Online](https://markitdown.online/l) - Interfaz web directa basada en la utilidad de conversión para transformar archivos planos y documentos de oficina en formato `.md`.
 - 🛠️ [GitToSkill](https://www.gittoskill.com/) - Analizador automático de repositorios de GitHub que encapsula tu código base en formatos funcionales de "skills" asimilables por agentes de IA.
 - 🛠️ [Google-Maps-Scraper](https://github.com/gosom/google-maps-scraper) - Aplicación de scraping optimizada en Go para la extracción masiva y estructurada de datos geográficos, reseñas y leads desde Google Maps.
-- - 🛠️ [reactbits.dev](https://reactbits.dev) - Aplicación para obtener prompts de secciones para apginas web.
+- 🛠️ [reactbits.dev](https://reactbits.dev) - Aplicación para obtener prompts de secciones para apginas web.
 
 ---
 
@@ -68,6 +68,13 @@ Instrucciones estructuradas y probadas bajo ingeniería de prompts para maximiza
 ### 📝 Creación de Documentación para Proyectos
 
 > Document this project: overview, architecture, setup, steps, key APIs with examples. output as DOCS.md
+
+### 📝 Creación de Seguridad para Proyectos
+
+> Revisa todos los inputs del usuario en mi app y añade validacion y sanitizacion estricta antes de procesarlos o guardarlos, uncluyendo forms, query params y body de requets
+> Revisa todas mis queries y asegurate de que usen prepared statements, nunca concatenacion directa de strings del usuario.
+> Configura Row Level Security en todas mis tablas para que cada usuarios solo pueda ver y modificar sus propios datos.
+> Corre un audit de mis dependencias, identifica las vulnerables y actualizalas a versiones seguras sin romper la app.
 
 ### 💼 Optimización del Perfil en LinkedIn
 
