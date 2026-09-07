@@ -83,6 +83,9 @@ Aprende y mejora tus habilidades de desarrollo jugando.
 - :video_game: [Flexbox Zombies](https://mastery.games/post/flexboxzombies2/) - Un videojuego narrativo inmersivo con una estética cuidada para entrenar tu cerebro en las mecánicas profundas de Flexbox.
 - :video_game: [The farmer was replaced](https://thefarmerwasreplaced.com/) - Videojuego de automatización donde controlas y optimizas las tareas de un dron agricultor programando su comportamiento con scripts en Python.
 - :video_game: [Code pip](https://codepip.com/games/) - Colección premium de minijuegos diseñados para pulir tus habilidades de maquetación avanzada utilizando Flexbox, Grid y utilidades de Tailwind CSS.
+- :video_game: [CodinGame](https://www.codingame.com/start/) - Colección premium de minijuegos diseñados para pulir tus habilidades en Python y JS.
+- :video_game: [Warriors.JS](https://warrior.js.org/) - Colección premium de minijuegos diseñados para pulir tus habilidades en JS.
+- :video_game: [LightBOT](https://lightbot.com/) - Colección premium de minijuegos diseñados para pulir tus habilidades en logica de programacion.
 
 ### Mejora tu ingles <a name="english"></a>
 
