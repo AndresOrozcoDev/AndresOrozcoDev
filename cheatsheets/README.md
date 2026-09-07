@@ -297,6 +297,7 @@ Extensiones esenciales para Visual Studio Code.
 - :keyboard: [Auto Rename](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Sincroniza el renombrado de etiquetas web de forma automática; al modificar una etiqueta de apertura en HTML/JSX, la etiqueta de cierre correspondiente se actualiza en tiempo real.
 - :keyboard: [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Proporciona autocompletado inteligente de rutas de archivos de tu sistema de directorios local mientras escribes sentencias de importación (imports) o referencias de assets.
 - :keyboard: [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja) - Inyecta salidas de logs de `console.log` y errores de ejecución del navegador o Node.js directamente al lado de tu código fuente en tiempo real mientras ejecutas tu app.
+- :keyboard: [DevTool+](https://marketplace.visualstudio.com/items?itemName=Fuzionix.devtool-plus) - Conjunto de herramientas para progamar.
 
 ### Repositorios útiles de Github <a name="github"></a>
 
