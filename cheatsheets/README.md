@@ -223,7 +223,7 @@ Generadores para crear tu README de manera rápida y profesional.
 
 - :page_facing_up: [GPRM](https://gprm.itsvg.in/) - Generador visual interactivo que automatiza la creación de perfiles estéticos de GitHub, integrando contadores de visitas, badges dinámicos y estadísticas en tiempo real.
 - :page_facing_up: [GH Profile Readme](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Herramienta basada en formularios técnicos para añadir iconos de habilidades, redes sociales, estadísticas avanzadas y extensiones dinámicas a tu README.
-- :page_facing_up: [Profile Readme Generator](https://profile-readme-generator.com/es) - Diseñador ágil de portafolios nativos para perfiles de GitHub mediante la selección modular de tecnologías, badges de frameworks y repositorios destacados.
+- :page_facing_up: [Profile Readme Generator](https://profile-readme-generator.com/en) - Diseñador ágil de portafolios nativos para perfiles de GitHub mediante la selección modular de tecnologías, badges de frameworks y repositorios destacados.
 - :page_facing_up: [Readme so](https://readme.so/es) - Editor interactivo con interfaz "arrastrar y soltar" (drag-and-drop) de secciones predefinidas que simplifica radicalmente la escritura de archivos README estructurados para proyectos open-source.
 - :page_facing_up: [Iconos](https://github.com/ikatyang/emoji-cheat-sheet) - Hoja de referencia de códigos abreviados de emojis compatibles de forma nativa para estructurar visualmente tus ficheros Markdown en GitHub.
 - :page_facing_up: [Emojis](https://tutorialmarkdown.com/emojis) - Guía en español con buenas prácticas de legibilidad y trucos de sintaxis para renderizar emojis consistentes en tus archivos técnicos.
